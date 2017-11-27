@@ -1,0 +1,111 @@
+var stat="";
+var p = document.getElementsByTagName("div");
+//getHome
+var home=document.getElementsByClassName('picture-medium')[0].getAttribute('title');
+/*var h = document.getElementsByClassName("no-padding-left");
+var hcount=0;
+for(var i=0;i<p.length;i++){
+	if(p[i].children.length==0){
+		hcount++;
+		if(hcount==2)home = p[i].innerHTML;
+	}
+}*/
+//getAway
+var away=document.getElementsByClassName('picture-medium')[2].getAttribute('title');
+/*var a = document.getElementsByClassName("no-padding-right");
+var acount=0;
+for(var i=0;i<p.length;i++){
+	if(p[i].children.length==0){
+		acount++;
+		if(acount==2)away = p[i].innerHTML;
+	}
+}*/
+//getIndexes
+var indexHistory=0;
+var indexLast=0;
+var indexNext=0;
+var indexPosition=0;
+var indexLadder=0;
+for(var index = 0;index<p.length;index++){
+	if(p[index].innerHTML=='Τελευταίες συναντήσεις')indexHistory=index;
+	if(p[index].innerHTML=='<strong>Τελευταίοι αγώνες</strong>')indexLast=index;
+	if(p[index].innerHTML=='<strong>Επόμενοι αγώνες</strong>')indexNext=index;
+	if(p[index].innerHTML=='Θέση')indexPosition=index;
+}
+//start102
+var stat102='';
+var perc102=0;
+var c102=0;
+var h1=0;
+var a2=0;
+//getPercentages
+var perc = document.getElementsByTagName('p');
+var percentageHome=-1;//parseInt(document.getElementsByClassName("graphics-primary-fill")[1].children[0].innerHTML[0]+document.getElementsByClassName("graphics-primary-fill")[1].children[0].innerHTML[1]);
+var percentageAway=-1;//parseInt(document.getElementsByClassName("graphics-primary-fill")[3].children[0].innerHTML[0]+document.getElementsByClassName("graphics-primary-fill")[3].children[0].innerHTML[1]);
+for(var i=0;i< perc.length ; i++){
+	if( perc[i].innerHTML.includes("%") ){
+		if(percentageHome<0)percentageHome=parseInt(perc[i].innerHTML[0]+perc[i].innerHTML[1]);
+		else percentageAway=parseInt(perc[i].innerHTML[0]+perc[i].innerHTML[1]);
+	}
+}
+
+if(Math.abs(percentageHome-percentageAway)>=20 && (percentageHome>50 || percentageAway>50)){
+	if(percentageHome>percentageAway)h1++;
+	else a2++;
+}
+c102++;
+//getHistory
+if(indexHistory>0 && indexHistory<p.length){
+	c102++;
+	var table;
+	for(var i = indexHistory; i < indexLast ; i++){
+		if(p[i].getElementsByTagName("table").length>0){
+			table=p[i].getElementsByTagName("table")[0];
+			break;
+		}
+	}
+	var rows = table.children[1].getElementsByTagName('tr');
+	//getWinnerOfEachMatch
+	for(var r=0;r<rows.length;r++){
+		if(rows[r].children[0].innerHTML.split('/')[2]!='17')continue;
+		var winner = rows[r].getElementsByClassName("win-color");
+		for(var w=0;w<winner.length;w++){
+			if(winner[w].innerHTML==home)h1++;
+			else if(winner[w].innerHTML==away)a2++;
+		}
+	}
+}
+//getLadder
+table = null;
+debugger;
+for(var i = indexPosition; i < p.length ; i++){
+	if(p[i].getElementsByTagName("table").length>0){
+		table=p[i].getElementsByTagName("table")[0];
+		break;
+	}
+}
+if(table!=null){
+	c102++;
+	var hl=0;
+	var al=0;
+	var rows = table.children[1].getElementsByTagName('tr');
+	for(var r=0;r<rows.length;r++){
+		var team = rows[r].getElementsByTagName('div');
+		for(var c=0;c<team.length;c++){
+			if(team[c].innerHTML==home){
+				hl=parseInt(rows[r].children[1].innerHTML);
+				console.log(rows[r].children[1]);
+			}else if(c.innerHTML==away){
+				al=parseInt(rows[r].children[1].innerHTML);
+			}
+		}
+	}
+	if(Math.abs(hl-al)>3){
+		if(hl>al)h1++;
+		else a2++;
+	}
+}
+
+//result
+console.log(c102+" "+h1+" "+a2);
+

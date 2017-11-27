@@ -1,0 +1,230 @@
+<html>
+	<head>
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.4.0/Chart.min.js"></script>
+		<script src="data.js"></script>
+	</head>
+	<body>
+		<p>1</p>
+		<canvas id="chart1" width="400" height="400"></canvas>
+		<p>1X</p>
+		<canvas id="chart1X" width="400" height="400"></canvas>
+		<p>X</p>
+		<canvas id="chartX" width="400" height="400"></canvas>
+		<p>2X</p>
+		<canvas id="chart2X" width="400" height="400"></canvas>
+		<p>2</p>
+		<canvas id="chart2" width="400" height="400"></canvas>
+		<script>
+		var ctx = document.getElementById("chart1").getContext('2d');
+		var scatterChart = new Chart(ctx, {
+			"type":"scatter",
+			"data":{
+				"datasets":[
+				{
+					"data":[
+					{
+						x:0,
+						y:0
+					},
+					{
+						x:100,
+						y:100
+					}
+					],
+					"fill": true,
+					"pointBackgroundColor":"black"
+				},
+				{
+					"data":draw,
+					"fill":true,
+					"pointBackgroundColor": "red"
+				},
+				{
+					"data":away,
+					"fill":true,
+					"pointBackgroundColor": "red"
+				},
+				{
+					"data": home,
+					"fill":true,
+					"pointBackgroundColor": "blue"
+				}
+				]
+			},
+			"options":{
+				showLines: false,
+
+			}
+		}
+	);
+		var ctx = document.getElementById("chart1X").getContext('2d');
+		var scatterChart = new Chart(ctx, {
+			"type":"scatter",
+			"data":{
+				"datasets":[
+				{
+					"data":[
+					{
+						x:0,
+						y:0
+					},
+					{
+						x:100,
+						y:100
+					}
+					],
+					"fill": true,
+					"pointBackgroundColor":"black"
+				},
+				{
+					"data":away,
+					"fill":true,
+					"pointBackgroundColor": "red"
+				},
+				{
+					"data":draw,
+					"fill":true,
+					"pointBackgroundColor": "blue"
+				},
+				{
+					"data": home,
+					"fill":true,
+					"pointBackgroundColor": "blue"
+				}
+				]
+			},
+			"options":{
+				showLines: false,
+
+			}
+		}
+	);
+		var ctx = document.getElementById("chartX").getContext('2d');
+		var scatterChart = new Chart(ctx, {
+			"type":"scatter",
+			"data":{
+				"datasets":[
+				{
+					"data":[
+					{
+						x:0,
+						y:0
+					},
+					{
+						x:100,
+						y:100
+					}
+					],
+					"fill": true,
+					"pointBackgroundColor":"black"
+				},
+				{
+					"data":away,
+					"fill":true,
+					"pointBackgroundColor": "red"
+				},
+				{
+					"data":home,
+					"fill":true,
+					"pointBackgroundColor": "red"
+				},
+				{
+					"data": draw,
+					"fill":true,
+					"pointBackgroundColor": "blue"
+				}
+				]
+			},
+			"options":{
+				showLines: false,
+
+			}
+		}
+	);
+		var ctx = document.getElementById("chart2X").getContext('2d');
+		var scatterChart = new Chart(ctx, {
+			"type":"scatter",
+			"data":{
+				"datasets":[
+				{
+					"data":[
+					{
+						x:0,
+						y:0
+					},
+					{
+						x:100,
+						y:100
+					}
+					],
+					"fill": true,
+					"pointBackgroundColor":"black"
+				},
+				{
+					"data":home,
+					"fill":true,
+					"pointBackgroundColor": "red"
+				},
+				{
+					"data":away,
+					"fill":true,
+					"pointBackgroundColor": "blue"
+				},
+				{
+					"data": draw,
+					"fill":true,
+					"pointBackgroundColor": "blue"
+				}
+				]
+			},
+			"options":{
+				showLines: false,
+
+			}
+		}
+	);
+		var ctx = document.getElementById("chart2").getContext('2d');
+		var scatterChart = new Chart(ctx, {
+			"type":"scatter",
+			"data":{
+				"datasets":[
+				{
+					"data":[
+					{
+						x:0,
+						y:0
+					},
+					{
+						x:100,
+						y:100
+					}
+					],
+					"fill": true,
+					"pointBackgroundColor":"black"
+				},
+				{
+					"data":draw,
+					"fill":true,
+					"pointBackgroundColor": "red"
+				},
+				{
+					"data":home,
+					"fill":true,
+					"pointBackgroundColor": "red"
+				},
+				{
+					"data": away,
+					"fill":true,
+					"pointBackgroundColor": "blue"
+				}
+				]
+			},
+			"options":{
+				showLines: false,
+
+			}
+		}
+	);
+		</script>
+	</body>
+</html>
