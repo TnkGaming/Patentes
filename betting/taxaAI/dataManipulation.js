@@ -377,12 +377,16 @@ function checkThis(toCheck, checkingAll){
 				out+="***UNFINISHED***\n";
 			score=[];
 		}else{
-			var lineChecked = line.split(",");
-			var matchString = resultsToCheck.find( m => m.split(",")[0] == lineChecked[0] && m.split(",")[1] == lineChecked[1] && m.split(",")[2] == lineChecked[2] );
-			var match = checkingAll? line.split(",") : matchString.split(",");
-			if(match.length==5)
-				score = [parseInt(match[3]),parseInt(match[4])];
-			out+=matchString+"\n";
+			try{
+				var lineChecked = line.split(",");
+				var matchString = resultsToCheck.find( m => m.split(",")[0] == lineChecked[0] && m.split(",")[1] == lineChecked[1] && m.split(",")[2] == lineChecked[2] );
+				var match = checkingAll? line.split(",") : matchString.split(",");
+				if(match.length==5)
+					score = [parseInt(match[3]),parseInt(match[4])];
+				out+=matchString+"\n";
+			}catch{
+				out+=line+"\n";
+			}
 		}		
 	});
 	document.getElementById("results").innerHTML = out.replace(/[(]O[)]/g,"<span style=\"border:solid;color:green; font-weight:bold;\">O</span>").replace(/[(]X[)]/g,"<span style=\"border:solid;color:red; font-weight:bold;\">X</span>").replace(/[\n]/g,"<br>");

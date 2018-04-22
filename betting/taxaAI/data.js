@@ -7833,4 +7833,1083 @@ Slovakia-Super_Liga,Tatran Presov,FK Senica,1,1
 Spain-Segunda_Division,Sevilla Atletico,Albacete,1,2
 Turkey-Super_Lig,Kasimpasa,Antalyaspor,2,3
 Turkey-Super_Lig,Karabukspor,Osmanlispor FK,0,4
-International-Club_Friendlies,Elfsborg,Landskrona BoIS,2,0`;
+International-Club_Friendlies,Elfsborg,Landskrona BoIS,2,0
+England-Premier_League,Swansea City,Southampton,1X
+England-Premier_League,Leicester City,Arsenal,1X
+England-Premier_League,Liverpool,Watford,5,0
+England-Premier_League,AFC Bournemouth,West Bromwich Albion,2,1
+England-Premier_League,Stoke City,Everton,1,2
+England-Premier_League,Huddersfield Town,Crystal Palace,0,2
+England-FA_Cup,Manchester United,Brighton &amp; Hove Albion,2,0
+England-FA_Cup,Swansea City,Tottenham Hotspur,0,3
+France-Ligue_1,Montpellier,Dijon,2,2
+France-Ligue_1,Toulouse,Strasbourg,2,2
+France-Ligue_1,Angers,Caen,3,0
+France-Ligue_1,Bordeaux,Rennes,0,2
+France-Ligue_1,Amiens,Troyes,1,1
+Germany-1__Bundesliga,Eintracht Frankfurt,Mainz 05,3,0
+Germany-1__Bundesliga,Augsburg,Werder Bremen,1,3
+Germany-1__Bundesliga,Hamburger SV,Hertha Berlin,1,2
+Germany-1__Bundesliga,Borussia Moenchengladbach,Hoffenheim,3,3
+Germany-1__Bundesliga,Wolfsburg,Schalke 04,0,1
+Italy-Serie_A,Udinese,Sassuolo,1,2
+Italy-Serie_A,SPAL 2013,Juventus,0,0
+Netherlands-Eredivisie,PSV Eindhoven,VVV-Venlo,3,0
+Netherlands-Eredivisie,Vitesse,Heracles,0,0
+Netherlands-Eredivisie,FC Twente,Willem II,2,2
+Netherlands-Eredivisie,SC Heerenveen,FC Utrecht,2,2
+Portugal-Primeira_Liga,FC Porto,Boavista,2,0
+Portugal-Primeira_Liga,Estoril,Pacos de Ferreira,1,1
+Portugal-Primeira_Liga,Tondela,Maritimo,1,2
+Portugal-Primeira_Liga,Feirense,Benfica,0,2
+Russia-Premier_League,FC Krasnodar,FC Ufa,0,1
+Russia-Premier_League,Anzhi Makhachkala,Tosno,2,0
+Russia-Premier_League,Arsenal Tula,FC Rostov,2,2
+Russia-Premier_League,Rubin Kazan,Spartak Moscow,1,2
+Russia-Premier_League,SKA-Khabarovsk,Ural,0,3
+Spain-Primera_Division,Valencia,Alaves,3,1
+Spain-Primera_Division,Deportivo La Coruna,Las Palmas,1,1
+Spain-Primera_Division,Real Sociedad,Getafe,1,2
+Spain-Primera_Division,Real Betis,Espanyol,3,0
+Argentina-Superliga,San Lorenzo,Olimpo,2,0
+Argentina-Superliga,Colon,Lanus,1,2
+Argentina-Superliga,Argentinos Juniors,Newells Old Boys,1,0
+England-Premier_League,West Ham United,Manchester United,2
+England-Premier_League,Manchester City,Brighton &amp; Hove Albion,1
+England-FA_Cup,Leicester City,Chelsea,1,2
+England-FA_Cup,Wigan Athletic,Southampton,0,2
+France-Ligue_1,Saint-Etienne,Guingamp,2,0
+France-Ligue_1,Marseille,Lyon,2,3
+France-Ligue_1,Metz,Nantes,1,1
+France-Ligue_1,Nice,Paris Saint Germain,1,2
+Germany-1__Bundesliga,Borussia Dortmund,Hannover 96,1,0
+Germany-1__Bundesliga,FC Cologne,Bayer Leverkusen,2,0
+Germany-1__Bundesliga,RasenBallsport Leipzig,Bayern Munich,2,1
+Italy-Serie_A,SSC Napoli,Genoa,1,0
+Italy-Serie_A,Lazio,Bologna,1,1
+Italy-Serie_A,AC Milan,ChievoVerona,3,2
+Italy-Serie_A,Benevento,Cagliari,1,2
+Italy-Serie_A,Torino,Fiorentina,1,2
+Italy-Serie_A,Sampdoria,Inter,0,5
+Italy-Serie_A,Crotone,Roma,0,2
+Italy-Serie_A,Hellas Verona,Atalanta,0,5
+Netherlands-Eredivisie,AZ Alkmaar,FC Groningen,3,2
+Netherlands-Eredivisie,NAC Breda,Roda JC Kerkrade,0,1
+Netherlands-Eredivisie,PEC Zwolle,Feyenoord,3,4
+Netherlands-Eredivisie,Sparta Rotterdam,Ajax,2,5
+Portugal-Primeira_Liga,Sporting CP,Rio Ave,2,0
+Portugal-Primeira_Liga,Vitoria de Guimaraes,Aves,2,1
+Portugal-Primeira_Liga,Moreirense,Belenenses,2,1
+Portugal-Primeira_Liga,Chaves,Braga,1,4
+Spain-Primera_Division,Barcelona,Athletic Bilbao,2,0
+Spain-Primera_Division,Real Madrid,Girona,6,3
+Spain-Primera_Division,Celta Vigo,Malaga,0,0
+Spain-Primera_Division,Villarreal,Atletico Madrid,2,1
+Spain-Primera_Division,Leganes,Sevilla,2,1
+Argentina-Superliga,Racing Club,Patronato de Parana,5,0
+Argentina-Superliga,Estudiantes,Godoy Cruz,0,1
+Argentina-Superliga,Talleres,Defensa y Justicia,1,0
+Argentina-Superliga,Arsenal Sarandi,Velez Sarsfield,1,1
+Argentina-Superliga,Atletico Tucuman,Boca Juniors,1,1
+Australia-A_League,Melbourne Victory,Central Coast Mariners,5,2
+Austria-Bundesliga,Salzburg,Austria Wien,5,0
+Bulgaria-First_Professional_League,Cherno More Varna,Lokomotiv Plovdiv,0,1
+Argentina-Superliga,River Plate,Belgrano,3,1
+Argentina-Superliga,Banfield,Union,0,2
+Bulgaria-First_Professional_League,Slavia Sofia,Pirin Blagoevgrad,3,1
+Germany-2__Bundesliga,Erzgebirge Aue,Greuther Fuerth,2,1
+Greece-Super_League,Asteras Tripolis,Platanias,1
+Ireland-Premier_Division,Limerick,Shamrock Rovers,0,1
+Ireland-Premier_Division,Cork City,Bohemian FC,3,0
+Italy-Serie_B,Carpi,Pro Vercelli,2,0
+Mexico-Liga_MX_Clausura,Veracruz,Atlas,3,1
+Romania-Liga_I_Relegation_Group,Sepsi OSK,FC Voluntari,2,2
+Spain-Segunda_Division,Huesca,Sporting Gijon,0,2
+International-Club_Friendlies,Odds Ballklubb,Fram Larvik,3,2
+International-Club_Friendlies,Stabaek,Skeid,1,2
+Egypt-Premier_League,Al-Ittihad Al-Sakandary,Petrojet,2,2
+Egypt-Premier_League,El Entag El Harby,ENPPI,1,1
+Egypt-Premier_League,Al Mokawloon Al Arab,Wadi Degla FC,0,0
+Egypt-Premier_League,El Raja Marsa Matruh,El Geish,1,0
+Egypt-Premier_League,Alassiouty,Smouha SC,0,0
+Egypt-Premier_League,Al Nasr,Misr El-Maqasa,0,1
+England-League_1,Doncaster Rovers,Bradford City,2,0
+France-Ligue_2,Brest,Nimes,0,2
+Italy-Serie_C_Grp__C,Casertana,Racing Fondi,1,0
+Italy-Serie_C_Grp__C,Cosenza,Lecce,0,1
+Albania-Kategoria_Superiore,Kukesi,Vllaznia,2,0
+Albania-Kategoria_Superiore,Partizani,Flamurtari,1,0
+Argentina-Primera_B_Metropolitana,Barracas Central,Almirante Brown,3,1
+Argentina-Primera_B_Metropolitana,Tristan Suarez,CA San Miguel,2,3
+Argentina-Primera_B_Metropolitana,CD UAI Urquiza,Villa San Carlos,1,1
+Argentina-Primera_B_Metropolitana,CA Talleres Remedios de Escalada,Deportivo Espanol,1,1
+Armenia-1__Division,Lori,Alashkert FC II,3,0
+Armenia-1__Division,Erebuni,Pyunik II,1,1
+Armenia-1__Division,Ararat II,Gandzasar II,2,0
+Armenia-1__Division,Shirak II,Artsakh,0,4
+Armenia-1__Division,Banants II,Avan Academy,3,1
+Australia-Southern,Para Hills Knights,Campbelltown City,2,4
+Australia-Southern_State_League,Adelaide Blue Eagles,The Cove,3,0
+Australia-NPL_Youth_Queensland,Brisbane Strikers U20,Brisbane Roar U20,4,2
+Australia-NPL_Youth_Queensland,Western Pride U20,Moreton Bay United U20,3,0
+Australia-NPL_Youth_Queensland,Brisbane City U20,Redlands United U20,4,1
+Bolivia-Primera_Division___Apertura,Blooming,Sport Boys Warnes,1,0
+Argentina-Superliga,Tigre,Independiente,1,1
+N__Ireland-Premiership,Cliftonville,Ballymena United,1,2
+International-Club_Friendlies,Start,Jerv,
+International-Club_Friendlies,NV Estudiantes de Murcia CF,Royal Antwerp,0,9
+England-League_1,Rochdale,Fleetwood Town,0,2
+England-League_1,Northampton Town,Shrewsbury Town,1,1
+England-League_2,Crewe Alexandra,Forest Green Rovers,3,1
+England-League_2,Port Vale,Exeter City,0,1
+England-League_2,Morecambe,Colchester United,0,0
+Italy-Serie_C_Grp__A,Arzachena,Cuneo,1,1
+Italy-Serie_C_Grp__A,Piacenza,Prato,1,0
+Italy-Serie_C_Grp__A,Giana Erminio,Olbia,3,0
+Italy-Serie_C_Grp__A,Alessandria,Carrarese,5,0
+Italy-Serie_C_Grp__A,Livorno,Robur Siena,1,0
+Italy-Serie_C_Grp__A,Pontedera,Pro Piacenza,1,1
+Italy-Serie_C_Grp__A,Lucchese,Viterbese,1,1
+Italy-Serie_C_Grp__A,US Gavorrano,Monza,1,0
+Italy-Serie_C_Grp__A,Pistoiese,Pisa,0,1
+Norway-Cup_Qualification,NHHI,Lyngboe,3,4
+Norway-Cup_Qualification,Verdal,Roervik,4,0
+Norway-Cup_Qualification,Trygg/Lade,Heimdal,5,1
+Norway-Cup_Qualification,Lommedalen,Ready,3,0
+Norway-Cup_Qualification,Nordstrand,Heming,2,1
+Norway-Cup_Qualification,Melhus,Roeros,8,1
+Norway-Cup_Qualification,Skjold,Aakra,4,2
+Norway-Cup_Qualification,Hauerseter,Gjelleraasen,2,3
+Scotland-Championship,Dundee United,Queen of South,2,3
+Scotland-Championship,Brechin City,Dunfermline Athletic,0,3
+Scotland-League_One,Airdrieonians,Alloa Athletic,2,2
+Scotland-League_One,Albion Rovers,Ayr United,2,3
+Argentina-Primera_B_Nacional,Aldosivi,Quilmes,1,3
+Argentina-Primera_C,Deportivo Armenio,Dock Sud,0,1
+Austria-Erste_Liga,Kapfenberger SV,BW Linz,1,4
+Austria-Regionalliga_East,Wiener SK,Austria Wien (A),1,1
+Brazil-Copa_do_Nordeste_Grp__D,Salgueiro,Sampaio Correa,0,0
+Brazil-Paulista_A1_Trophy_Interior,Red Bull Brasil,Sao Bento,2,2
+Brazil-Paulista_A2,Oeste FC,Sertaozinho,1,0
+Chile-Primera_Division,Huachipato,Union La Calera,2,0
+Colombia-Primera_A_Apertura,Once Caldas,Rionegro Aguilas,1,2
+Croatia-2__Division,HNK Gorica,NK Sesvete,1,0
+International-Friendlies,Laos,Cambodia,0,1
+International-Friendlies,Zambia,Zimbabwe,7,6
+International-Friendlies,Togo,Madagascar,0,0
+International-Friendlies,Liechtenstein,Andorra,0,1
+International-Friendlies,Iraq,Qatar,2,3
+International-Friendlies,South Africa,Angola,8,7
+International-Friendlies,Jordan,Kuwait,1,0
+International-Club_Friendlies,Rosenborg,Levanger,
+International-Club_Friendlies,Feyenoord,ADO Den Haag,4,0
+England-League_1,Walsall,Wigan Athletic,0,3
+England-League_2,Crawley Town,Wycombe Wanderers,2,3
+International-EURO_U17_Qualification_Elite_Round_Grp__1,Serbia U17,Czech Republic U17,2,0
+International-EURO_U17_Qualification_Elite_Round_Grp__1,Ukraine U17,Spain U17,1,1
+International-EURO_U17_Qualification_Elite_Round_Grp__3,Ireland U17,Macedonia U17,3,0
+International-EURO_U17_Qualification_Elite_Round_Grp__3,Georgia U17,Poland U17,2,2
+International-EURO_U17_Qualification_Elite_Round_Grp__6,Denmark U17,Austria U17,1,0
+International-EURO_U17_Qualification_Elite_Round_Grp__6,France U17,Bosnia and Herzegovina U17,3,0
+International-EURO_U17_Qualification_Elite_Round_Grp__8,Germany U17,Norway U17,2,2
+International-EURO_U17_Qualification_Elite_Round_Grp__8,Greece U17,Scotland U17,1,0
+International-EURO_U19_Qualification_Elite_Round_Grp__1,Germany U19,Scotland U19,3,0
+International-EURO_U19_Qualification_Elite_Round_Grp__1,Norway U19,Netherlands U19,1,6
+International-EURO_U19_Qualification_Elite_Round_Grp__2,Macedonia U19,Latvia U19,1,2
+International-EURO_U19_Qualification_Elite_Round_Grp__2,Hungary U19,England U19,1,4
+International-EURO_U19_Qualification_Elite_Round_Grp__3,Czech Republic U19,Poland U19,0,0
+International-EURO_U19_Qualification_Elite_Round_Grp__3,Greece U19,Italy U19,0,2
+International-EURO_U19_Qualification_Elite_Round_Grp__4,Romania U19,Serbia U19,4,0
+International-EURO_U19_Qualification_Elite_Round_Grp__4,Sweden U19,Ukraine U19,0,0
+International-EURO_U19_Qualification_Elite_Round_Grp__5,Portugal U19,Kosovo U19,5,0
+International-EURO_U19_Qualification_Elite_Round_Grp__5,Slovakia U19,Ireland U19,1,1
+International-EURO_U19_Qualification_Elite_Round_Grp__6,Spain U19,Bulgaria U19,0,0
+International-EURO_U19_Qualification_Elite_Round_Grp__6,Belgium U19,France U19,2,3
+International-EURO_U19_Qualification_Elite_Round_Grp__7,Turkey U19,Austria U19,2,0
+International-EURO_U19_Qualification_Elite_Round_Grp__7,Denmark U19,Bosnia and Herzegovina U19,3,2
+Italy-Serie_C_Grp__B,Sudtirol,Teramo,1,0
+Italy-Serie_C_Grp__B,Bassano Virtus,Mestre,0,2
+Italy-Serie_C_Grp__B,Sambenedettese,Vicenza,2,1
+Italy-Serie_C_Grp__B,Modena,Santarcangelo,X2
+Italy-Serie_C_Grp__B,Calcio Padova,FeralpiSalo,1,1
+Italy-Serie_C_Grp__B,AlbinoLeffe,Fermana,1,0
+Italy-Serie_C_Grp__B,Triestina,Pordenone Calcio,1,1
+International-Asian_Cup_Qualification_Round_3_Grp__A,Kyrgyzstan,Myanmar,5,1
+International-EURO_U21_Qualification_Grp__1,Greece U21,San Marino U21,4,0
+International-EURO_U21_Qualification_Grp__2,N.Ireland U21,Spain U21,3,5
+International-EURO_U21_Qualification_Grp__5,Germany U21,Israel U21,3,0
+International-EURO_U21_Qualification_Grp__5,Kosovo U21,Azerbaijan U21,2,0
+International-EURO_U21_Qualification_Grp__6,Hungary U21,Cyprus U21,4,0
+International-Friendlies,Slovakia,U.A.E.,2,1
+International-Friendlies,Malaysia,Mongolia,2,2
+International-Friendlies,Macau,Mauritius,0,1
+International-Friendlies,Guinea-Bissau,Burkina Faso,0,2
+International-Friendlies,Antigua and Barbuda,Bermuda,3,2
+International-Friendlies,Algeria,Tanzania,4,1
+International-Friendlies,Denmark,Panama,1,0
+International-Friendlies,Philippines,Fiji,3,2
+International-Friendlies,Bahrain,Palestine,0,0
+International-Friendlies,Thailand,Gabon,4,2
+International-Friendlies,Faroe Islands,Latvia,1,1
+International-Friendlies,Malta,Luxembourg,0,1
+International-Friendlies,China,Wales,0,6
+International-Club_Friendlies,Hamburger SV,OB,3,0
+International-Club_Friendlies,AEL Limassol,Ural,0,2
+International-Club_Friendlies,Borussia Moenchengladbach,St. Pauli,
+International-Club_Friendlies,St.Truiden,Lierse,2,2
+International-Club_Friendlies,FC Groningen,Groen Geel,8,0
+International-Club_Friendlies,Stroemsgodset,Notodden,3,2
+International-Club_Friendlies,Baltika,Schalke 04,
+International-Club_Friendlies,Wolfsburg,Union Berlin,3,0
+International-Club_Friendlies,Odds Ballklubb,Jerv,1,1
+International-Club_Friendlies,Bayer Leverkusen,Bochum,5,2
+International-EURO_U17_Qualification_Elite_Round_Grp__7,Slovenia U17,Hungary U17,1,1
+International-EURO_U17_Qualification_Elite_Round_Grp__7,Israel U17,Romania U17,5,1
+International-Friendlies_U21,Slovenia U21,Ukraine U21,2,3
+International-Friendlies_U21,Italy U21,Norway U21,1,1
+International-Friendlies_U21,Moldova U21,Latvia U21,1,1
+International-Friendlies_U21,Netherlands U21,Belgium U21,1,4
+International-Friendlies_U21,Austria U21,Denmark U21,0,5
+International-Friendlies_U21,Ireland U21,Iceland U21,3,1
+Italy-Serie_C_Grp__C,Racing Fondi,Cosenza,0,1
+Italy-Serie_C_Grp__C,Lecce,Fidelis Andria,2,2
+Italy-Serie_C_Grp__C,Reggina,Casertana,2,1
+England-Premier_League,Chelsea,West Ham United,1
+England-Premier_League,Arsenal,Southampton,1
+France-Ligue_1,Marseille,Montpellier,1X
+France-Ligue_1,Nice,Rennes,X2
+France-Ligue_1,Metz,Lyon,2
+Germany-1__Bundesliga,Borussia Dortmund,VfB Stuttgart,1X
+Germany-1__Bundesliga,Eintracht Frankfurt,Hoffenheim,1X
+Italy-Serie_A,SSC Napoli,ChievoVerona,1
+Italy-Serie_A,AC Milan,Sassuolo,1
+Italy-Serie_A,Crotone,Bologna,X2
+Italy-Serie_A,Hellas Verona,Cagliari,X2
+Italy-Serie_A,Torino,Inter,1,0
+Italy-Serie_A,Udinese,Lazio,2
+Netherlands-Eredivisie,Ajax,Heracles,1
+Netherlands-Eredivisie,FC Utrecht,ADO Den Haag,3,3
+Netherlands-Eredivisie,SC Heerenveen,FC Groningen,1
+Netherlands-Eredivisie,FC Twente,Feyenoord,2
+Portugal-Primeira_Liga,FC Porto,Aves,1
+Portugal-Primeira_Liga,Sporting CP,Pacos de Ferreira,1
+Portugal-Primeira_Liga,Chaves,Belenenses,1X
+Russia-Premier_League,Lokomotiv Moscow,FC Rostov,1
+Russia-Premier_League,Tosno,Ural,X2
+Russia-Premier_League,Anzhi Makhachkala,Spartak Moscow,2
+Spain-Primera_Division,Valencia,Espanyol,1
+Spain-Primera_Division,Real Madrid,Atletico Madrid,1X
+Spain-Primera_Division,Levante,Las Palmas,2,1
+Spain-Primera_Division,Real Sociedad,Girona,X2
+Argentina-Superliga,Boca Juniors,Defensa y Justicia,1,2
+Argentina-Superliga,San Lorenzo,Godoy Cruz,1X
+Argentina-Superliga,Talleres,Independiente,1X
+Argentina-Superliga,Atletico Tucuman,Newells Old Boys,1
+Argentina-Superliga,San Martin San Juan,Huracan,X2
+Australia-A_League,Melbourne Victory,Wellington Phoenix,2,1
+Australia-A_League,Sydney FC,Adelaide United,3,0
+Austria-Bundesliga,LASK,Salzburg,X2
+Belgium-First_Division_A_Playoff_Championship_Group,Gent,Club Brugge,
+Belgium-First_Division_A_Playoff_EL_Grp__A,Waasland-Beveren,Zulte-Waregem,
+Belgium-First_Division_A_Playoff_EL_Grp__A,Royal Excel Mouscron,Kortrijk,
+Croatia-1__Division,Slaven,Rijeka,X2
+Croatia-1__Division,NK Istra 1961,Dinamo Zagreb,2
+England-Premier_League,Arsenal,Stoke City,3,0
+England-Premier_League,Chelsea,Tottenham Hotspur,1,3
+France-Ligue_1,Lyon,Toulouse,2,0
+France-Ligue_1,Strasbourg,Metz,2,2
+France-Ligue_1,Lille,Amiens,0,1
+France-Ligue_1,Nantes,Saint-Etienne,0,3
+France-Ligue_1,Guingamp,Bordeaux,2,1
+France-Ligue_1,Caen,Montpellier,1,3
+France-Ligue_1,Troyes,Nice,0,2
+Germany-1__Bundesliga,Werder Bremen,Eintracht Frankfurt,2,1
+Germany-1__Bundesliga,Mainz 05,Borussia Moenchengladbach,0,0
+Netherlands-Eredivisie,Feyenoord,Excelsior,5,0
+Netherlands-Eredivisie,VVV-Venlo,FC Twente,0,0
+Netherlands-Eredivisie,Heracles,SC Heerenveen,1,2
+Netherlands-Eredivisie,FC Groningen,Ajax,1,2
+Russia-Premier_League,FC Krasnodar,Anzhi Makhachkala,1,1
+Russia-Premier_League,Ural,Rubin Kazan,1,1
+Russia-Premier_League,FC Rostov,CSKA Moscow,1,2
+Russia-Premier_League,FC Ufa,Zenit St. Petersburg,1,2
+Spain-Primera_Division,Atletico Madrid,Deportivo La Coruna,1,0
+Spain-Primera_Division,Espanyol,Alaves,0,0
+Spain-Primera_Division,Eibar,Real Sociedad,0,0
+Spain-Primera_Division,Leganes,Valencia,0,1
+Spain-Primera_Division,Malaga,Villarreal,1,0
+Argentina-Superliga,Independiente,Atletico Tucuman,0,2
+Argentina-Superliga,Boca Juniors,Talleres,2,1
+Argentina-Superliga,Chacarita Juniors,Arsenal Sarandi,2,2
+Argentina-Superliga,Defensa y Justicia,River Plate,1,3
+Argentina-Superliga,Patronato de Parana,Rosario Central,3,0
+Australia-A_League,Newcastle Jets,Melbourne City FC,0,3
+Austria-Bundesliga,Mattersburg,Rapid Wien,2,4
+Belgium-First_Division_A_Playoff_Championship_Group,Anderlecht,Gent,0,2
+Belgium-First_Division_A_Playoff_EL_Grp__A,Zulte-Waregem,Oud-Heverlee,2,2
+Bulgaria-First_Professional_League_Championship_Playoff,Levski Sofia,Beroe,1,2
+Bulgaria-First_Professional_League_Relegation_Grp__2,Lokomotiv Plovdiv,Dunav Ruse,2,2
+Czech_Republic-1__Division,Slavia Prague,Zlin,1,2
+Denmark-Superligaen_Relegation_Grp__1,Hobro,AGF,1,3
+Denmark-Superligaen_Relegation_Grp__2,Randers FC,Lyngby,2,0
+International-Friendlies,Malaysia,Bhutan,7,0
+International-Friendlies,Antigua and Barbuda,Dominica,0,0
+Portugal-Primeira_Liga,Belenenses,FC Porto,2,0
+Spain-Primera_Division,Getafe,Real Betis,0,1
+International-AFC_Champions_League_Grp__C,Al-Sadd,Al-Wasl,2,1
+International-AFC_Champions_League_Grp__C,Nasaf Qarshi,Persepolis,0,0
+International-AFC_Champions_League_Grp__D,Al-Ain,Al Hilal,2,1
+International-AFC_Champions_League_Grp__D,Esteghlal,Al-Rayyan,2,0
+Argentina-Superliga,Lanus,San Lorenzo,0,2
+Belgium-First_Division_A_Playoff_Championship_Group,Club Brugge,Genk,1,0
+Belgium-First_Division_A_Playoff_EL_Grp__B,Royal Antwerp,Oostende,3,3
+Bulgaria-First_Professional_League_Relegation_Grp__2,Septemvri Sofia,Etar,1,0
+Denmark-Superligaen_Championship_Playoff,FC Koebenhavn,FC Nordsjaelland,2,1
+Denmark-Superligaen_Championship_Playoff,AaB,Broendby IF,0,3
+Denmark-Superligaen_Relegation_Grp__2,OB,SoenderjyskE,2,1
+England-Championship,Bristol City,Brentford,0,1
+England-Championship,Preston North End,Derby County,0,1
+England-Championship,Sheffield United,Cardiff City,1,1
+England-Championship,Queens Park Rangers,Norwich City,4,1
+England-Championship,Sunderland,Sheffield Wednesday,1,3
+England-Championship,Ipswich Town,Millwall,2,2
+England-Championship,Burton Albion,Middlesbrough,1,1
+Germany-2__Bundesliga,Darmstadt,Fortuna Duesseldorf,1,0
+Greece-Super_League,Asteras Tripolis,Platanias,4,0
+Italy-Serie_B,Parma Calcio 1913,Palermo,3,2
+Italy-Serie_B,Carpi,Venezia,0,0
+Italy-Serie_B,Foggia,Empoli,0,3
+Italy-Serie_B,Avellino,Bari,1,2
+Mexico-Liga_MX_Clausura,Veracruz,Tijuana,1,0
+Netherlands-Eerste_Divisie,NEC Nijmegen,Telstar,3,0
+Netherlands-Eerste_Divisie,Fortuna Sittard,Helmond Sport,3,0
+Netherlands-Eerste_Divisie,De Graafschap,FC Den Bosch,2,1
+Netherlands-Eerste_Divisie,Jong PSV,FC Oss,5,1
+Netherlands-Eerste_Divisie,Cambuur,FC Eindhoven,3,2
+Netherlands-Eerste_Divisie,FC Volendam,Jong AZ Alkmaar,4,1
+Netherlands-Eerste_Divisie,RKC Waalwijk,Almere City FC,0,4
+Netherlands-Eerste_Divisie,Jong FC Utrecht,Go Ahead Eagles,1,0
+Netherlands-Eerste_Divisie,MVV Maastricht,FC Emmen,0,1
+Netherlands-Eerste_Divisie,FC Dordrecht,Jong Ajax,2,3
+Norway-Eliteserien,Molde,Tromsoe,2,1
+Norway-Eliteserien,Start,Sandefjord,1,4
+Norway-Eliteserien,Bodoe/Glimt,FK Haugesund,0,3
+International-Champions_League_Final_Stage,Juventus,Real Madrid,0,3
+International-Champions_League_Final_Stage,Sevilla,Bayern Munich,1,2
+Italy-Serie_A,Atalanta,Sampdoria,1,2
+Italy-Serie_A,Genoa,Cagliari,2,1
+Italy-Serie_A,Udinese,Fiorentina,0,2
+International-AFC_Champions_League_Grp__A,Al Ahli,Tractor Sazi Tabriz,2,0
+International-AFC_Champions_League_Grp__A,Al-Garrafa,Al-Jazira,2,3
+International-AFC_Champions_League_Grp__B,Zob Ahan,Al-Duhail SC,0,1
+International-AFC_Champions_League_Grp__B,Al-Wahda,Lokomotiv Tashkent,1,4
+International-AFC_Champions_League_Grp__G,Cerezo Osaka,Jeju United,2,1
+International-AFC_Champions_League_Grp__G,Buriram United,Guangzhou Evergrande,1,1
+International-AFC_Champions_League_Grp__H,Suwon Bluewings,Sydney FC,1,4
+International-AFC_Champions_League_Grp__H,Shanghai Shenhua,Kashima Antlers,2,2
+Argentina-Superliga,Godoy Cruz,Colon,2,1
+Argentina-Superliga,Olimpo,Temperley,1,1
+Croatia-1__Division,NK Lokomotiva,Osijek,1,1
+Denmark-Superligaen_Championship_Playoff,AC Horsens,FC Midtjylland,0,1
+England-Championship,Fulham,Leeds United,2,0
+England-Championship,Wolverhampton Wanderers,Hull City,2,2
+England-Championship,Aston Villa,Reading,3,0
+England-Championship,Bolton Wanderers,Birmingham City,0,1
+Israel-Ligat_HaAl_Championship_Group,Maccabi Netanya,Maccabi Tel Aviv,4,1
+Italy-Serie_B,Brescia,Entella,0,0
+Italy-Serie_B,Pro Vercelli,Perugia,0,2
+N__Ireland-Premiership_Championship_Group,Crusaders,Coleraine,1,1
+N__Ireland-Premiership_Championship_Group,Glenavon,Linfield,2,3
+N__Ireland-Premiership_Championship_Group,Ballymena United,Cliftonville,0,3
+N__Ireland-Premiership_Relegation_Group,Ards,Warrenpoint Town,4,2
+Romania-Liga_I_Relegation_Group,Botosani,Dinamo Bucuresti,0,1
+Scotland-Premiership,Hibernian,Hamilton Academical,3,1
+Scotland-Premiership,Ross County,Partick Thistle,4,0
+Scotland-Premiership,Motherwell,Aberdeen,0,2
+Slovenia-Prva_Liga,NK Krsko,ND Triglav,2,0
+Egypt-Premier_League,Smouha SC,Misr El-Maqasa,1,0
+England-League_1,Bury,Rochdale,0,2
+Estonia-Meistriliiga,Trans Narva,Tulevik Viljandi,2,0
+Estonia-Meistriliiga,Tammeka,Paide Linnameeskond,5,2
+Finland-Cup_Final_Stage,EIF,FC Inter,0,5
+France-Ligue_2,Tours,Valenciennes,1,2
+Italy-Serie_C_Grp__A,Alessandria,Arzachena,0,0
+International-Champions_League_Final_Stage,Barcelona,Roma,4,1
+International-Champions_League_Final_Stage,Liverpool,Manchester City,3,0
+International-Copa_Libertadores_Grp__3,Libertad,The Strongest,3,0
+International-Copa_Libertadores_Grp__5,Universidad de Chile,Racing Club,1,1
+International-Copa_Libertadores_Grp__6,Real Garcilaso,Nacional,0,0
+International-Copa_Libertadores_Grp__8,Palmeiras,Alianza Lima,2,0
+France-Ligue_1,Rennes,Monaco,1,1
+Italy-Serie_A,Torino,Crotone,4,1
+Italy-Serie_A,Benevento,Hellas Verona,3,0
+Italy-Serie_A,AC Milan,Inter,0,0
+Italy-Serie_A,ChievoVerona,Sassuolo,1,1
+International-AFC_Champions_League_Grp__E,Kashiwa Reysol,Jeonbuk FC,0,2
+International-AFC_Champions_League_Grp__E,Kitchee,Tianjin Quanjian,0,1
+International-AFC_Champions_League_Grp__F,Shanghai SIPG FC,Kawasaki Frontale,1,1
+International-AFC_Champions_League_Grp__F,Ulsan Hyundai,Melbourne Victory,6,2
+Czech_Republic-1__Division,Banik Ostrava,Viktoria Plzen,0,0
+Greece-Super_League,PAS Giannina,Apollon Smirnis,0,1
+Israel-Ligat_HaAl_Championship_Group,Hapoel Beer Sheva,Beitar Jerusalem,3,1
+Israel-Ligat_HaAl_Championship_Group,Bnei Yehuda Tel Aviv,Hapoel Haifa,3,0
+Russia-Cup,Krylya Sovetov Samara,Spartak Moscow,1,3
+Scotland-Premiership,Celtic,Dundee FC,0,0
+Slovenia-Prva_Liga,Rudar Velenje,Domzale,1,4
+International-CONCACAF_Champions_League,Toronto FC,CF America,3,1
+International-Copa_Sudamericana,Barcelona SC,Sol de America,
+Denmark-DBU_Pokalen,Randers FC,Silkeborg,1,3
+Estonia-Meistriliiga,Talinna Kalev,Parnu JK Vaprus,4,2
+Estonia-Meistriliiga,FCI Levadia,Nomme JK Kalju,2,2
+Estonia-Meistriliiga,FC Kuressaare,Flora Tallinn,0,7
+Gibraltar-Premier_Division,Mons Calpe SC,Glacis United,2,1
+Italy-Serie_C_Grp__B,FeralpiSalo,Ravenna,0,1
+Italy-Serie_C_Grp__B,Alma Juventus Fano,Gubbio,0,1
+Italy-Serie_C_Grp__B,Vicenza,Fermana,1,1
+Norway-Cup_Qualification,Loeten,Tynset,1,2
+Norway-Cup_Qualification,Sandviken,Nordhordland,7,1
+Norway-Cup_Qualification,Selbak,Lommedalen,0,3
+Norway-Cup_Qualification,Storhamar,Lillehammer FK,2,4
+Norway-Cup_Qualification,Oestsiden,Rakkestad,4,0
+Norway-Cup_Qualification,Halsen,Hei,6,0
+Norway-Cup_Qualification,Strindheim,Charlottenlund,5,1
+Norway-Cup_Qualification,Tomrefjord IL,Sunndal,4,5
+International-Copa_Libertadores_Grp__1,Gremio,Monagas SC,4,0
+International-Copa_Libertadores_Grp__3,Club Atletico Penarol,Atletico Tucuman,3,1
+International-Copa_Libertadores_Grp__5,Cruzeiro,Vasco da Gama,0,0
+International-Copa_Libertadores_Grp__8,Boca Juniors,Atletico Junior,1,0
+International-Europa_League_Final_Stage,Atletico Madrid,Sporting CP,2,0
+International-Europa_League_Final_Stage,Arsenal,CSKA Moscow,4,1
+International-Europa_League_Final_Stage,RasenBallsport Leipzig,Marseille,1,0
+International-Europa_League_Final_Stage,Lazio,Salzburg,4,2
+Argentina-Superliga,Independiente,San Lorenzo,0,1
+Bulgaria-First_Professional_League_Relegation_Grp__1,Slavia Sofia,Cherno More Varna,1,1
+Bulgaria-First_Professional_League_Relegation_Grp__1,Vitosha Bistritsa,Pirin Blagoevgrad,1,3
+USA-USL,Tulsa Roughnecks FC,Portland Timbers II,0,0
+USA-USL,Swope Park Rangers,Colorado Springs Switchbacks FC,1,0
+International-AFC_Cup_Grp__E,Aizawl,Bengaluru FC,1,3
+International-CONCACAF_Champions_League,CD Guadalajara,New York Red Bulls,1,0
+Denmark-DBU_Pokalen,SoenderjyskE,Broendby IF,0,1
+Egypt-Premier_League,Wadi Degla FC,Alassiouty,0,2
+Egypt-Premier_League,Petrojet,Al Mokawloon Al Arab,1,1
+Gibraltar-Premier_Division,Lions Gibraltar,Gibraltar Phoenix,1,6
+Norway-Cup_Qualification,Fauske/Sprint,Mo,1,2
+Serbia-Super_Liga,Partizan Beograd,Borac Cacak,5,0
+Serbia-Super_Liga,FK Crvena Zvezda,FK Zemun,3,1
+Serbia-Super_Liga,Macva Sabac,Mladost Lucani,2,1
+Serbia-Super_Liga,Javor,Backa Backa Palanka,2,1
+Serbia-Super_Liga,FK Spartak Subotica,FK Radnik Surdulica,3,1
+Serbia-Super_Liga,Vojvodina,Rad Beograd,2,1
+Serbia-Super_Liga,Vozdovac,Cukaricki,0,0
+Serbia-Super_Liga,Napredak,Radnicki Nis,3,1
+Argentina-Primera_C,Central Cordoba de Rosario,Excursionistas,1,0
+Bahrain-Premier_League,Al-Shabab,Muharraq,0,0
+Bahrain-Premier_League,Al-Riffa,Manama,1,1
+Bahrain-Premier_League,Al Ahli,Malkia,3,1
+Belarus-Premier_League,Dinamo Brest,FC Luch Minsk,2,1
+Belarus-Premier_League,FK Slutsk,Neman Grodno,1,1
+Brazil-Cup,Atletico MG,Ferroviario,4,0
+Brazil-Cup,Atletico PR,Sao Paulo,2,1
+Brazil-Alagoano_Playoff,ASA,Coruripe,3,2
+Brazil-Cearense_Playoff,Ceara,Fortaleza,2,1
+Brazil-Matogrossense_Playoff,Sinop,Cuiaba,0,2
+Brazil-Piauiense_Playoff,Piaui,River AC,0,1
+International-Copa_Libertadores_Grp__2,Colo Colo,Delfin,0,2
+International-Copa_Libertadores_Grp__2,Bolivar,Atletico Nacional,1,0
+International-Copa_Libertadores_Grp__4,River Plate,Santa Fe,0,0
+International-Copa_Libertadores_Grp__6,Estudiantes,Santos FC,0,1
+France-Ligue_1,Saint-Etienne,Paris Saint Germain,1,1
+Germany-1__Bundesliga,Hannover 96,Werder Bremen,2,1
+Netherlands-Eredivisie,Excelsior,Willem II,2,1
+Portugal-Primeira_Liga,Vitoria de Guimaraes,Rio Ave,3,0
+Spain-Primera_Division,Deportivo La Coruna,Malaga,3,2
+Australia-A_League,Newcastle Jets,Perth Glory,0,2
+Belgium-First_Division_A_Playoff_Championship_Group,Sporting Charleroi,Anderlecht,1,2
+Bulgaria-First_Professional_League_Championship_Playoff,Ludogorets Razgrad,PFC CSKA-Sofia,3,2
+Bulgaria-First_Professional_League_Championship_Playoff,Botev Plovdiv,Levski Sofia,1,0
+Bulgaria-First_Professional_League_Championship_Playoff,Vereya,Beroe,0,3
+Croatia-1__Division,Cibalia,Inter Zapresic,3,0
+Denmark-Superligaen_Championship_Playoff,FC Nordsjaelland,AaB,3,1
+England-Championship,Cardiff City,Wolverhampton Wanderers,0,1
+Germany-2__Bundesliga,Sandhausen,Greuther Fuerth,0,0
+Germany-2__Bundesliga,Fortuna Duesseldorf,Bochum,1,2
+Ireland-Premier_Division,St. Patrick's Athletic,Bray Wanderers,5,0
+Ireland-Premier_Division,Dundalk,Shamrock Rovers,2,1
+Ireland-Premier_Division,Bohemian FC,Limerick,0,0
+Ireland-Premier_Division,Waterford FC,Cork City,2,1
+Netherlands-Eerste_Divisie,Almere City FC,Jong FC Utrecht,2,1
+Netherlands-Eerste_Divisie,FC Emmen,FC Volendam,2,3
+Netherlands-Eerste_Divisie,FC Oss,RKC Waalwijk,3,1
+Netherlands-Eerste_Divisie,Telstar,Jong PSV,0,0
+Netherlands-Eerste_Divisie,Jong AZ Alkmaar,FC Dordrecht,3,1
+Netherlands-Eerste_Divisie,Jong Ajax,NEC Nijmegen,2,0
+Netherlands-Eerste_Divisie,FC Den Bosch,Cambuur,1,2
+Netherlands-Eerste_Divisie,Helmond Sport,MVV Maastricht,2,3
+Netherlands-Eerste_Divisie,FC Eindhoven,De Graafschap,2,4
+Netherlands-Eerste_Divisie,Go Ahead Eagles,Fortuna Sittard,0,1
+Romania-Liga_I_Championship_Group,CSMS Iasi,FC Viitorul Constanta,0,2
+Spain-Segunda_Division,Cadiz,Almeria,0,0
+Turkey-Super_Lig,Istanbul Basaksehir,Yeni Malatyaspor,1,0
+Belgium-First_Division_B_Relegation_Group,Union St.-Gilloise,Tubize,1,1
+Egypt-Premier_League,ENPPI,El Dakhleya,3,3
+France-Ligue_2,Lorient,SC Bastia,
+France-Ligue_2,Brest,Valenciennes,3,1
+England-Premier_League,Brighton &amp; Hove Albion,Huddersfield Town,1,1
+England-Premier_League,Manchester City,Manchester United,2,3
+England-Premier_League,Leicester City,Newcastle United,1,2
+England-Premier_League,Watford,Burnley,1,2
+England-Premier_League,West Bromwich Albion,Swansea City,1,1
+England-Premier_League,AFC Bournemouth,Crystal Palace,2,2
+England-Premier_League,Everton,Liverpool,0,0
+England-Premier_League,Stoke City,Tottenham Hotspur,1,2
+France-Ligue_1,Monaco,Nantes,2,1
+France-Ligue_1,Bordeaux,Lille,2,1
+France-Ligue_1,Angers,Strasbourg,1,1
+France-Ligue_1,Guingamp,Troyes,4,0
+France-Ligue_1,Toulouse,Dijon,0,1
+France-Ligue_1,Amiens,Caen,3,0
+Germany-1__Bundesliga,Borussia Moenchengladbach,Hertha Berlin,2,1
+Germany-1__Bundesliga,FC Cologne,Mainz 05,1,1
+Germany-1__Bundesliga,Freiburg,Wolfsburg,0,2
+Germany-1__Bundesliga,Hamburger SV,Schalke 04,3,2
+Germany-1__Bundesliga,Augsburg,Bayern Munich,1,4
+Italy-Serie_A,Roma,Fiorentina,0,2
+Italy-Serie_A,Sampdoria,Genoa,0,0
+Italy-Serie_A,SPAL 2013,Atalanta,1,1
+Italy-Serie_A,Benevento,Juventus,2,4
+Netherlands-Eredivisie,Sparta Rotterdam,VVV-Venlo,3,2
+Netherlands-Eredivisie,AZ Alkmaar,PSV Eindhoven,2,3
+Netherlands-Eredivisie,Roda JC Kerkrade,PEC Zwolle,3,2
+Netherlands-Eredivisie,NAC Breda,Vitesse,1,0
+Portugal-Primeira_Liga,Estoril,Maritimo,1,1
+Portugal-Primeira_Liga,Tondela,Portimonense,2,2
+Portugal-Primeira_Liga,Feirense,Braga,2,2
+Portugal-Primeira_Liga,Vitoria de Setubal,Benfica,1,2
+Russia-Premier_League,Zenit St. Petersburg,FC Krasnodar,1,2
+Russia-Premier_League,Rubin Kazan,FK Akhmat,3,2
+Russia-Premier_League,Arsenal Tula,FC Ufa,2,1
+Russia-Premier_League,SKA-Khabarovsk,Amkar,0,2
+Spain-Primera_Division,Barcelona,Leganes,3,1
+Spain-Primera_Division,Celta Vigo,Sevilla,4,0
+Spain-Primera_Division,Real Betis,Eibar,2,0
+Spain-Primera_Division,Alaves,Getafe,2,0
+Argentina-Superliga,Banfield,Olimpo,3,0
+England-Premier_League,Chelsea,West Ham United,1,1
+England-Premier_League,Arsenal,Southampton,3,2
+France-Ligue_1,Nice,Rennes,1,1
+France-Ligue_1,Marseille,Montpellier,0,0
+France-Ligue_1,Metz,Lyon,0,5
+Germany-1__Bundesliga,Borussia Dortmund,VfB Stuttgart,3,0
+Germany-1__Bundesliga,Eintracht Frankfurt,Hoffenheim,1,1
+Italy-Serie_A,SSC Napoli,ChievoVerona,2,1
+Italy-Serie_A,AC Milan,Sassuolo,1,1
+Italy-Serie_A,Crotone,Bologna,1,0
+Italy-Serie_A,Hellas Verona,Cagliari,1,0
+Italy-Serie_A,Torino,Inter,1,0
+Italy-Serie_A,Udinese,Lazio,1,2
+Netherlands-Eredivisie,Ajax,Heracles,1,0
+Netherlands-Eredivisie,FC Utrecht,ADO Den Haag,3,3
+Netherlands-Eredivisie,SC Heerenveen,FC Groningen,1,1
+Netherlands-Eredivisie,FC Twente,Feyenoord,1,3
+Portugal-Primeira_Liga,FC Porto,Aves,2,0
+Portugal-Primeira_Liga,Sporting CP,Pacos de Ferreira,2,0
+Portugal-Primeira_Liga,Chaves,Belenenses,1,1
+Russia-Premier_League,Lokomotiv Moscow,FC Rostov,1,0
+Russia-Premier_League,Tosno,Ural,2,2
+Russia-Premier_League,Anzhi Makhachkala,Spartak Moscow,1,4
+Spain-Primera_Division,Valencia,Espanyol,1,0
+Spain-Primera_Division,Levante,Las Palmas,2,1
+Spain-Primera_Division,Real Madrid,Atletico Madrid,1,1
+Spain-Primera_Division,Real Sociedad,Girona,5,0
+Argentina-Superliga,Boca Juniors,Defensa y Justicia,1,2
+Argentina-Superliga,San Lorenzo,Godoy Cruz,0,5
+Argentina-Superliga,Atletico Tucuman,Newells Old Boys,1,1
+Argentina-Superliga,Talleres,Independiente,0,2
+Argentina-Superliga,San Martin San Juan,Huracan,0,1
+Australia-A_League,Melbourne Victory,Wellington Phoenix,2,1
+Australia-A_League,Sydney FC,Adelaide United,3,0
+Austria-Bundesliga,LASK,Salzburg,1,0
+Belgium-First_Division_A_Playoff_Championship_Group,Gent,Club Brugge,1,0
+Belgium-First_Division_A_Playoff_EL_Grp__A,Royal Excel Mouscron,Kortrijk,2,1
+Belgium-First_Division_A_Playoff_EL_Grp__A,Waasland-Beveren,Zulte-Waregem,1,2
+Croatia-1__Division,Slaven,Rijeka,1,3
+Croatia-1__Division,NK Istra 1961,Dinamo Zagreb,0,4
+Germany-1__Bundesliga,RasenBallsport Leipzig,Bayer Leverkusen,1,4
+Portugal-Primeira_Liga,Moreirense,Boavista,1,0
+Russia-Premier_League,CSKA Moscow,Dinamo Moscow,1,2
+Spain-Primera_Division,Villarreal,Athletic Bilbao,1,3
+Argentina-Superliga,Racing Club,River Plate,0,2
+Bulgaria-First_Professional_League_Relegation_Grp__2,Etar,Dunav Ruse,2,1
+Bulgaria-First_Professional_League_Relegation_Grp__2,Septemvri Sofia,Lokomotiv Plovdiv,0,0
+Denmark-Superligaen_Championship_Playoff,FC Midtjylland,FC Koebenhavn,3,2
+Israel-Ligat_HaAl_Championship_Group,Maccabi Tel Aviv,Hapoel Beer Sheva,0,1
+Italy-Serie_B,Avellino,Perugia,2,0
+Mexico-Liga_MX_Clausura,Santos,Queretaro FC,3,0
+Netherlands-Eerste_Divisie,NEC Nijmegen,FC Oss,2,1
+Netherlands-Eerste_Divisie,De Graafschap,Almere City FC,4,2
+Netherlands-Eerste_Divisie,MVV Maastricht,FC Dordrecht,1,0
+Netherlands-Eerste_Divisie,Cambuur,Jong AZ Alkmaar,3,2
+Netherlands-Eerste_Divisie,FC Emmen,Telstar,2,3
+Netherlands-Eerste_Divisie,FC Eindhoven,Helmond Sport,3,2
+Netherlands-Eerste_Divisie,Jong FC Utrecht,FC Volendam,2,1
+Netherlands-Eerste_Divisie,FC Den Bosch,Jong Ajax,2,5
+Netherlands-Eerste_Divisie,RKC Waalwijk,Fortuna Sittard,1,1
+Norway-Eliteserien,Lillestroem,Start,1,0
+Romania-Liga_I_Championship_Group,FC FCSB,CS Universitatea Craiova,2,0
+Romania-Liga_I_Relegation_Group,Gaz Metan Medias,ACS Poli Timisoara,1,1
+Romania-Liga_I_Relegation_Group,Juventus Bucuresti,Sepsi OSK,0,2
+Sweden-Allsvenskan,Brommapojkarna,Haecken,2,0
+Sweden-Allsvenskan,Malmoe FF,AIK,1,1
+Turkey-Super_Lig,Genclerbirligi,Galatasaray,1,0
+Ukraine-Premier_League_Relegation_Group,Karpaty,Zirka,2,1
+USA-Major_League_Soccer,LA Galaxy,Sporting Kansas City,0,2
+International-AFC_Cup_Grp__C,Al-Ansar,Dhofar,1,1
+International-AFC_Cup_Grp__C,Al-Wahda,Al-Faisaly,1,2
+France-Ligue_2,Lens,Nancy,1,1
+Italy-Serie_C_Grp__C,Catania,Juve Stabia,0,0
+Kosovo-Superliga,KF Flamurtari,FC Prishtina,0,2
+Sweden-Superettan,IK Brage,Gefle,4,2
+Turkey-1__Lig,Balikesirspor,Denizlispor,2,1
+Albania-Kategoria_Superiore,Flamurtari,Skenderbeu,0,3
+Argentina-Federal_A___Promotion___Playoff,Desamparados,Gimnasia y Tiro,4,4
+Argentina-Federal_A___Promotion___Playoff,Sportivo Belgrano,Atletico Parana,4,2
+Argentina-Federal_A___Promotion___Playoff,Sarmiento de Resistencia,Ferro Carril Oeste General Pico,0,0
+International-Champions_League_Final_Stage,Manchester City,Liverpool,1,2
+International-Champions_League_Final_Stage,Roma,Barcelona,3,0
+Argentina-Superliga,Estudiantes,Chacarita Juniors,0,2
+Argentina-Superliga,Arsenal Sarandi,Patronato de Parana,1,1
+England-Championship,Fulham,Reading,1,0
+England-Championship,Preston North End,Leeds United,3,1
+England-Championship,Queens Park Rangers,Sheffield Wednesday,4,2
+England-Championship,Bristol City,Birmingham City,3,1
+England-Championship,Sheffield United,Middlesbrough,2,1
+England-Championship,Aston Villa,Cardiff City,1,0
+England-Championship,Ipswich Town,Barnsley,1,0
+England-Championship,Sunderland,Norwich City,1,1
+England-Championship,Nottingham Forest,Brentford,0,1
+England-Championship,Bolton Wanderers,Millwall,0,2
+England-Championship,Burton Albion,Hull City,0,5
+Netherlands-Eerste_Divisie,Jong PSV,Go Ahead Eagles,6,0
+Sweden-Allsvenskan,IFK Gothenburg,Hammarby,1,2
+International-AFC_Cup_Grp__A,Al-Jazeera,Al Quwa Al Jawiya,1,1
+International-AFC_Cup_Grp__A,Al-Suwaiq,Malkia,1,2
+International-AFC_Cup_Grp__B,Manama,Al-Jaish,0,1
+International-AFC_Cup_Grp__B,Al Zawraa,Al-Ahed,1,1
+International-AFC_Cup_Grp__E,Bengaluru FC,New Radiant SC,1,0
+International-AFC_Cup_Grp__H,Song Lam Nghe An,Tampines Rovers FC,2,1
+International-AFC_Cup_Grp__H,Persija Jakarta,Johor Darul Ta'zim FC,4,0
+International-AFC_Cup_Grp__I,Hwaebul SC,HangYuen/Fujen,6,1
+Bulgaria-Cup,Botev Plovdiv,Slavia Sofia,2,1
+England-League_1,Blackpool,Northampton Town,3,0
+England-League_1,Oxford United,Fleetwood Town,0,1
+England-League_1,AFC Wimbledon,Charlton Athletic,1,0
+England-League_1,Gillingham,Blackburn Rovers,0,0
+England-League_1,Rochdale,Wigan Athletic,1,4
+England-League_2,Swindon Town,Yeovil Town,2,2
+England-League_2,Morecambe,Chesterfield,2,2
+England-League_2,Stevenage,Mansfield Town,1,1
+Gibraltar-Premier_Division,Mons Calpe SC,Gibraltar United FC,2,1
+Italy-Serie_C_Grp__A,Olbia,Arezzo,2,3
+Norway-1__Divisjon,Viking,Mjoendalen,0,2
+Scotland-Championship,Greenock Morton,Dumbarton,3,2
+Scotland-Championship,Inverness CT,Falkirk,1,0
+Scotland-Championship,Dundee United,St. Mirren,1,0
+International-Champions_League_Final_Stage,Bayern Munich,Sevilla,0,0
+International-Champions_League_Final_Stage,Real Madrid,Juventus,1,3
+England-Championship,Wolverhampton Wanderers,Derby County,2,0
+Hungary-NB_I,Budapest Honved,Videoton FC,1,4
+Norway-Eliteserien,Sandefjord,Ranheim,1,2
+Norway-Eliteserien,Tromsoe,Stroemsgodset,3,1
+Slovenia-Prva_Liga,ND Triglav,Maribor,0,5
+Switzerland-Super_League,Basel,FC Zuerich,3,0
+International-AFC_Cup_Grp__D,FC Istiklol,FC Alay Osh,1,0
+International-AFC_Cup_Grp__D,Ahal,Altyn Asyr,0,0
+International-AFC_Cup_Grp__E,Aizawl,Abahani Limited,0,3
+International-AFC_Cup_Grp__F,Boeung Ket,Ceres-Negros FC,0,4
+International-AFC_Cup_Grp__F,Home United FC,Shan United,3,2
+International-AFC_Cup_Grp__G,Global FC,FLC Thanh Hoa,3,3
+International-AFC_Cup_Grp__G,Yangon United,Bali United Pusam,3,2
+International-AFC_Cup_Grp__I,April 25 SC,Benfica Macau,8,0
+Bulgaria-Cup,PFC CSKA-Sofia,Levski Sofia,0,2
+International-CONCACAF_Champions_League,CF America,Toronto FC,1,1
+International-CONCACAF_Champions_League,New York Red Bulls,CD Guadalajara,0,0
+International-Copa_Sudamericana,LDU de Quito,Guabira,2,1
+International-Copa_Sudamericana,Deportivo Cali,Danubio,3,0
+International-Copa_Sudamericana,CD Jaguares,Boston River,2,1
+Denmark-DBU_Pokalen,Fredericia,AaB,3,1
+England-League_1,Oldham Athletic,Walsall,1,1
+Italy-Serie_C_Grp__B,Reggiana,Mestre,0,4
+Japan-J__League,Consadole Sapporo,Shonan Bellmare,1,0
+Japan-J__League,Shimizu S-Pulse,V-Varen Nagasaki,0,1
+Japan-J__League,Kawasaki Frontale,Cerezo Osaka,1,2
+Japan-J__League,Sanfrecce Hiroshima,Yokohama F.Marinos,3,1
+Japan-J__League,Gamba Osaka,Jubilo Iwata,2,0
+Japan-J__League,FC Tokyo,Kashima Antlers,2,1
+Japan-J__League,Vissel Kobe,Urawa Red Diamonds,2,3
+Japan-J__League,Sagan Tosu,Kashiwa Reysol,1,2
+Japan-J__League,Nagoya Grampus Eight,Vegalta Sendai,2,3
+Portugal-Segunda_Liga,Santa Clara,Arouca,0,0
+Portugal-Segunda_Liga,Real SC,Sporting Covilha,3,0
+Portugal-Segunda_Liga,Cova da Piedade,Oliveirense,3,2
+Portugal-Segunda_Liga,Sporting CP B,Famalicao,1,1
+Portugal-Segunda_Liga,Gil Vicente,Braga B,1,2
+Portugal-Segunda_Liga,Varzim,Academico Viseu,0,1
+International-Copa_Libertadores_Grp__8,Palmeiras,Boca Juniors,1,1
+International-Europa_League_Final_Stage,Marseille,RasenBallsport Leipzig,5,2
+International-Europa_League_Final_Stage,Salzburg,Lazio,4,1
+International-Europa_League_Final_Stage,CSKA Moscow,Arsenal,2,2
+International-Europa_League_Final_Stage,Sporting CP,Atletico Madrid,1,0
+Slovenia-Prva_Liga,Rudar Velenje,Ankaran Hrvatini,2,3
+Spain-Segunda_Division,Huesca,Albacete,0,0
+USA-Major_League_Soccer,New York City FC,Real Salt Lake,4,0
+USA-USL,Seattle Sounders FC II,Real Monarchs SLC,1,3
+USA-USL,LA Galaxy II,Phoenix Rising FC,0,1
+International-Copa_Sudamericana,Blooming,Bahia,1,0
+International-Copa_Sudamericana,Fluminense,Nacional Potosi,3,0
+International-Copa_Sudamericana,San Lorenzo,Atletico MG,1,0
+Denmark-DBU_Pokalen,Hobro,FC Midtjylland,1,2
+Egypt-Premier_League,Al Masry,Al Nasr,2,1
+Egypt-Premier_League,El Zamalek,Al-Ittihad Al-Sakandary,1,2
+England-League_1,Bradford City,Shrewsbury Town,0,0
+Gibraltar-Premier_Division,Lincoln Red Imps FC,Glacis United,1,0
+Italy-Serie_C_Grp__B,Santarcangelo,Sudtirol,1,0
+Algeria-Ligue_1,USM Alger,Olympique de Medea,1,1
+Argentina-Federal_A___Promotion___Final_Group,Central Cordoba de Santiago,Juventud Unida Universitario,3,1
+Argentina-Federal_A___Promotion___Final_Group,Defensores de Belgrano de Villa Ramallo,Gimnasia Mendoza,0,1
+Botswana-Premier_League,Extension Gunners,Galaxy,1,1
+Botswana-Premier_League,Township Rollers,Sharps Shooting Stars,3,3
+Brazil-Cup,Ponte Preta,Nautico,3,0
+Brazil-Cup,Internacional,Vitoria,2,1
+Brazil-Cup,Avai FC,Goias,2,2
+Brazil-Piauiense_Playoff,River AC,Altos,0,0
+China-Cup,Wuhan Chufeng Heli,Shijiazhuang Ever Bright,4,1
+Colombia-Primera_A_Apertura,Atletico Junior,Santa Fe,1,1
+Colombia-Primera_A_Apertura,Once Caldas,Tolima,0,1
+Colombia-Cup,Barranquilla FC,Llaneros FC,2,1
+DR_Congo-Super_League_Championship_Group,Maniema Union,Dragons,
+England-National_League,FC Halifax Town,Gateshead FC,2,2
+England-National_League_North,Telford,Leamington,3,2
+England-National_League_North,Spennymoor Town FC,Brackley Town,0,3
+England-Isthmian_Premier_Division,Staines Town,Folkestone Invicta,4,4
+England-Isthmian_Premier_Division,Dulwich Hamlet,Dorking Wanderers,4,0
+England-Isthmian_Premier_Division,Harrow Borough,Lowestoft Town,6,0
+England-Isthmian_Premier_Division,Burgess Hill Town,Leatherhead,0,1
+France-Ligue_1,Angers,Nice,1,1
+Germany-1__Bundesliga,Wolfsburg,Augsburg,0,0
+Netherlands-Eredivisie,Heracles,AZ Alkmaar,0,3
+Portugal-Primeira_Liga,Pacos de Ferreira,Braga,1,5
+Russia-Premier_League,FK Akhmat,Tosno,1,0
+Spain-Primera_Division,Girona,Real Betis,0,1
+Australia-A_League,Sydney FC,Melbourne Victory,1,0
+Belgium-First_Division_A_Playoff_Championship_Group,Sporting Charleroi,Genk,2,2
+Bulgaria-First_Professional_League_Relegation_Grp__1,Cherno More Varna,Vitosha Bistritsa,2,0
+Bulgaria-First_Professional_League_Relegation_Grp__1,Pirin Blagoevgrad,Slavia Sofia,2,5
+Croatia-1__Division,Osijek,NK Istra 1961,2,0
+Croatia-1__Division,Rudes,Rijeka,4,2
+Czech_Republic-1__Division,Slavia Prague,Karvina,3,2
+Czech_Republic-1__Division,Teplice,Mlada Boleslav,1,1
+Czech_Republic-1__Division,Vysocina Jihlava,Zlin,1,1
+Denmark-Superligaen_Relegation_Grp__1,AGF,FC Helsingoer,2,1
+England-Championship,Aston Villa,Leeds United,1,0
+Germany-2__Bundesliga,Bochum,Kaiserslautern,3,2
+Germany-2__Bundesliga,Greuther Fuerth,Jahn Regensburg,1,2
+Ireland-Premier_Division,Shamrock Rovers,Bohemian FC,1,2
+Ireland-Premier_Division,Cork City,St. Patrick's Athletic,1,0
+Ireland-Premier_Division,Derry City,Waterford FC,1,0
+Ireland-Premier_Division,Bray Wanderers,Dundalk,0,2
+Italy-Serie_B,Foggia,Ascoli Picchio FC 1898,3,0
+Italy-Serie_B,Parma Calcio 1913,Cittadella,0,0
+Netherlands-Eerste_Divisie,Fortuna Sittard,FC Den Bosch,2,0
+Netherlands-Eerste_Divisie,FC Volendam,RKC Waalwijk,0,1
+Netherlands-Eerste_Divisie,Telstar,Jong FC Utrecht,1,0
+Netherlands-Eerste_Divisie,Jong Ajax,FC Emmen,3,2
+Netherlands-Eerste_Divisie,Almere City FC,Jong PSV,2,1
+Netherlands-Eerste_Divisie,Jong AZ Alkmaar,MVV Maastricht,3,1
+Netherlands-Eerste_Divisie,Go Ahead Eagles,FC Eindhoven,1,3
+Netherlands-Eerste_Divisie,FC Dordrecht,Cambuur,0,3
+Netherlands-Eerste_Divisie,FC Oss,De Graafschap,1,4
+Netherlands-Eerste_Divisie,Helmond Sport,NEC Nijmegen,1,2
+Poland-Ekstraklasa_Championship_Group,Lech Poznan,Korona Kielce,0,1
+Poland-Ekstraklasa_Relegation_Group,Arka Gdynia,Lechia Gdansk,1,2
+Romania-Liga_I_Relegation_Group,FC Voluntari,Dinamo Bucuresti,2,4
+Sweden-Allsvenskan,GIF Sundsvall,Malmoe FF,2,2
+Sweden-Allsvenskan,Trelleborgs FF,Oerebro,1,2
+Brazil-Serie_A,Cruzeiro,Gremio,0,1
+England-Premier_League,Liverpool,AFC Bournemouth,3,0
+England-Premier_League,Crystal Palace,Brighton &amp; Hove Albion,3,2
+England-Premier_League,Huddersfield Town,Watford,1,0
+England-Premier_League,Burnley,Leicester City,2,1
+England-Premier_League,Swansea City,Everton,1,1
+England-Premier_League,Tottenham Hotspur,Manchester City,1,3
+England-Premier_League,Southampton,Chelsea,2,3
+France-Ligue_1,Lyon,Amiens,3,0
+France-Ligue_1,Rennes,Metz,1,2
+France-Ligue_1,Nantes,Dijon,1,1
+France-Ligue_1,Caen,Toulouse,1X
+France-Ligue_1,Lille,Guingamp,2,2
+France-Ligue_1,Strasbourg,Saint-Etienne,0,1
+Germany-1__Bundesliga,Bayern Munich,Borussia Moenchengladbach,5,1
+Germany-1__Bundesliga,Hoffenheim,Hamburger SV,2,0
+Germany-1__Bundesliga,Bayer Leverkusen,Eintracht Frankfurt,4,1
+Germany-1__Bundesliga,VfB Stuttgart,Hannover 96,1,1
+Germany-1__Bundesliga,Hertha Berlin,FC Cologne,2,1
+Italy-Serie_A,Genoa,Crotone,1,0
+Italy-Serie_A,Cagliari,Udinese,2,1
+Italy-Serie_A,Atalanta,Inter,0,0
+Italy-Serie_A,ChievoVerona,Torino,0,0
+Netherlands-Eredivisie,Vitesse,Sparta Rotterdam,7,0
+Netherlands-Eredivisie,PEC Zwolle,Excelsior,1,1
+Netherlands-Eredivisie,ADO Den Haag,FC Twente,2,1
+Netherlands-Eredivisie,VVV-Venlo,SC Heerenveen,0,2
+Portugal-Primeira_Liga,Aves,Feirense,1,0
+Portugal-Primeira_Liga,Vitoria de Guimaraes,Vitoria de Setubal,1,1
+Portugal-Primeira_Liga,Portimonense,Estoril,0,1
+Portugal-Primeira_Liga,Boavista,Chaves,3,3
+Russia-Premier_League,Zenit St. Petersburg,Anzhi Makhachkala,1,0
+Russia-Premier_League,FC Krasnodar,Arsenal Tula,3,0
+Russia-Premier_League,Amkar,Rubin Kazan,0,3
+Russia-Premier_League,Dinamo Moscow,Lokomotiv Moscow,0,4
+Spain-Primera_Division,Barcelona,Valencia,2,1
+Spain-Primera_Division,Athletic Bilbao,Deportivo La Coruna,2,3
+Spain-Primera_Division,Sevilla,Villarreal,2,2
+Spain-Primera_Division,Leganes,Celta Vigo,1,0
+Spain-Primera_Division,Las Palmas,Real Sociedad,0,1
+Brazil-Serie_A,Vasco da Gama,Atletico MG,2,1
+Brazil-Serie_A,Vitoria,Flamengo,2,2
+Brazil-Serie_A,America MG,Sport Recife,3,0
+Brazil-Serie_A,Corinthians,Fluminense,2,1
+Brazil-Serie_A,Santos FC,Ceara,2,0
+Brazil-Serie_A,Internacional,Bahia,2,0
+England-Premier_League,Manchester United,West Bromwich Albion,0,1
+England-Premier_League,Newcastle United,Arsenal,2,1
+France-Ligue_1,Paris Saint Germain,Monaco,7,1
+France-Ligue_1,Montpellier,Bordeaux,1,3
+France-Ligue_1,Troyes,Marseille,2,3
+Germany-1__Bundesliga,Werder Bremen,RasenBallsport Leipzig,1,1
+Germany-1__Bundesliga,Schalke 04,Borussia Dortmund,2,0
+Italy-Serie_A,Juventus,Sampdoria,3,0
+Italy-Serie_A,Fiorentina,SPAL 2013,0,0
+Italy-Serie_A,Bologna,Hellas Verona,2,0
+Italy-Serie_A,Sassuolo,Benevento,2,2
+Italy-Serie_A,Lazio,Roma,0,0
+Italy-Serie_A,AC Milan,SSC Napoli,0,0
+Netherlands-Eredivisie,Feyenoord,FC Utrecht,3,1
+Netherlands-Eredivisie,FC Groningen,Roda JC Kerkrade,2,1
+Netherlands-Eredivisie,NAC Breda,Willem II,1,2
+Netherlands-Eredivisie,PSV Eindhoven,Ajax,3,0
+Portugal-Primeira_Liga,Maritimo,Moreirense,1,1
+Portugal-Primeira_Liga,Benfica,FC Porto,0,1
+Portugal-Primeira_Liga,Belenenses,Sporting CP,3,4
+Russia-Premier_League,FC Rostov,SKA-Khabarovsk,2,0
+Russia-Premier_League,FC Ufa,CSKA Moscow,1,1
+Russia-Premier_League,Ural,Spartak Moscow,2,1
+Spain-Primera_Division,Atletico Madrid,Levante,3,0
+Spain-Primera_Division,Eibar,Alaves,0,1
+Spain-Primera_Division,Getafe,Espanyol,1,0
+Spain-Primera_Division,Malaga,Real Madrid,1,2
+Argentina-Superliga,River Plate,Rosario Central,2,0
+Argentina-Superliga,Union,Tigre,3,3
+Argentina-Superliga,Defensa y Justicia,Racing Club,3,2
+Argentina-Superliga,Chacarita Juniors,Colon,0,2
+Argentina-Superliga,Patronato de Parana,Estudiantes,0,1
+Australia-A_League,Western Sydney Wanderers FC,Adelaide United,2,3
+Austria-Bundesliga,Austria Wien,Rapid Wien,0,4
+Brazil-Serie_A,Atletico PR,Chapecoense AF,5,1
+England-Premier_League,West Ham United,Stoke City,1,1
+Germany-1__Bundesliga,Mainz 05,Freiburg,2,0
+Portugal-Primeira_Liga,Rio Ave,Tondela,1,1
+International-AFC_Champions_League_Grp__C,Persepolis,Al-Sadd,1,0
+International-AFC_Champions_League_Grp__C,Al-Wasl,Nasaf Qarshi,1,2
+International-AFC_Champions_League_Grp__D,Al Hilal,Esteghlal,0,1
+International-AFC_Champions_League_Grp__D,Al-Rayyan,Al-Ain,1,4
+Argentina-Superliga,Independiente,Boca Juniors,1,0
+Denmark-Superligaen_Relegation_Grp__1,Hobro,Silkeborg,1,0
+Greece-Super_League,Olympiacos,AOK Kerkyra,5,1
+Ireland-Premier_Division,Derry City,Bohemian FC,3,1
+Ireland-Premier_Division,St. Patrick's Athletic,Waterford FC,1,0
+Ireland-Premier_Division,Bray Wanderers,Shamrock Rovers,1,0
+Israel-Ligat_HaAl_Championship_Group,Beitar Jerusalem,Maccabi Tel Aviv,3,2
+Italy-Serie_B,Ascoli Picchio FC 1898,Parma Calcio 1913,0,1
+Mexico-Liga_MX_Clausura,Veracruz,Leon,1,2
+Netherlands-Eerste_Divisie,Jong Ajax,NEC Nijmegen,1,0
+Norway-Eliteserien,Bodoe/Glimt,Rosenborg,0,1
+Poland-Ekstraklasa_Championship_Group,Wisla Plock,Wisla Krakow,2,2
+Romania-Liga_I_Championship_Group,Astra Giurgiu,FC FCSB,0,3
+Romania-Liga_I_Relegation_Group,ACS Poli Timisoara,Botosani,0,1
+Spain-Segunda_Division,Huesca,Barcelona B,2,1
+Sweden-Allsvenskan,Hammarby,Brommapojkarna,4,0
+Turkey-Super_Lig,Osmanlispor FK,Trabzonspor,3,3
+USA-Major_League_Soccer,Atlanta United,New York City FC,2,2
+International-AFC_Cup_Grp__B,Al Zawraa,Manama,2,1
+Egypt-Premier_League,Al-Ittihad Al-Sakandary,El Geish,0,0
+Egypt-Premier_League,Alassiouty,Petrojet,3,2
+Egypt-Premier_League,Al Nasr,El Raja Marsa Matruh,3,1
+France-Ligue_2,Brest,Lorient,3,0
+Italy-Serie_C_Grp__B,Reggiana,Bassano Virtus,0,0
+Portugal-Segunda_Liga,FC Porto B,Sporting CP B,0,2
+Russia-National_Football_League,Khimki,Spartak Moscow II,1,0
+Sweden-Superettan,Varbergs BoIS FC,Joenkoepings Soedra,2,1
+Sweden-Superettan,Halmstads BK,Norrby,0,2
+Turkey-1__Lig,Adanaspor,Boluspor,2,3
+Argentina-Federal_A___Promotion___Playoff,Sarmiento de Resistencia,Crucero del Norte,0,1
+Argentina-Primera_C,CA Ferrocarril Midland,San Martin Burzaco,0,3
+Argentina-Primera_C,Sportivo Barracas,Dock Sud,2,2
+Brazil-Serie_A,Sao Paulo,Parana Clube,1,0
+Brazil-Serie_A,Botafogo RJ,Palmeiras,1,1
+England-Premier_League,Brighton &amp; Hove Albion,Tottenham Hotspur,1,1
+Italy-Serie_A,Inter,Cagliari,4,0
+Netherlands-Eredivisie,SC Heerenveen,ADO Den Haag,2,0
+Netherlands-Eredivisie,FC Twente,PEC Zwolle,2,0
+Spain-Primera_Division,Villarreal,Leganes,2,1
+Spain-Primera_Division,Deportivo La Coruna,Sevilla,0,0
+Spain-Primera_Division,Celta Vigo,Barcelona,2,2
+International-AFC_Champions_League_Grp__A,Tractor Sazi Tabriz,Al-Garrafa,1,3
+International-AFC_Champions_League_Grp__A,Al-Jazira,Al Ahli,1,2
+International-AFC_Champions_League_Grp__B,Al-Duhail SC,Al-Wahda,1,0
+International-AFC_Champions_League_Grp__B,Lokomotiv Tashkent,Zob Ahan,1,1
+International-AFC_Champions_League_Grp__G,Guangzhou Evergrande,Cerezo Osaka,3,1
+International-AFC_Champions_League_Grp__G,Jeju United,Buriram United,0,1
+International-AFC_Champions_League_Grp__H,Sydney FC,Shanghai Shenhua,0,0
+International-AFC_Champions_League_Grp__H,Kashima Antlers,Suwon Bluewings,0,1
+Argentina-Superliga,Velez Sarsfield,San Lorenzo,2,2
+Argentina-Superliga,Newells Old Boys,Talleres,2,1
+Belgium-First_Division_A_Playoff_Championship_Group,Gent,Genk,0,0
+Belgium-First_Division_A_Playoff_EL_Grp__A,Lierse,Zulte-Waregem,1,4
+Belgium-First_Division_A_Playoff_EL_Grp__A,Royal Excel Mouscron,Waasland-Beveren,1,1
+Belgium-First_Division_A_Playoff_EL_Grp__A,Kortrijk,Oud-Heverlee,2,1
+Bulgaria-First_Professional_League_Relegation_Grp__1,Pirin Blagoevgrad,Cherno More Varna,0,2
+Bulgaria-First_Professional_League_Relegation_Grp__1,Vitosha Bistritsa,Slavia Sofia,1,2
+Croatia-1__Division,NK Istra 1961,Rijeka,0,1
+Denmark-Superligaen_Relegation_Grp__1,FC Helsingoer,AGF,1,0
+France-Coupe_de_France,Les Herbiers,Chambly,2,0
+Germany-DFB_Pokal,Bayer Leverkusen,Bayern Munich,2,6
+Ireland-Premier_Division,Cork City,Sligo Rovers,1,0
+Ireland-Premier_Division,Limerick,Dundalk,0,3
+Italy-Serie_B,Venezia,Entella,2,0
+Italy-Serie_B,Bari,Novara,1,1
+Italy-Serie_B,Cremonese,Salernitana,1,1
+Italy-Serie_B,Spezia,Brescia,0,1
+Italy-Serie_B,Pro Vercelli,Pescara,3,1
+Italy-Serie_B,Cittadella,Palermo,0,0
+Italy-Serie_B,Carpi,Perugia,1,2
+Italy-Serie_B,Ternana,Foggia,2,2
+Italy-Serie_B,Avellino,Frosinone,0,2
+International-Copa_Libertadores_Grp__1,Defensor Sporting,Monagas SC,3,1
+International-Copa_Libertadores_Grp__1,Cerro Porteno,Gremio,0,0
+International-Copa_Libertadores_Grp__7,Millonarios,Deportivo Lara,4,0
+England-Premier_League,AFC Bournemouth,Manchester United,0,2
+Italy-Serie_A,SSC Napoli,Udinese,4,2
+Italy-Serie_A,Roma,Genoa,2,1
+Italy-Serie_A,Sampdoria,Bologna,1,0
+Italy-Serie_A,SPAL 2013,ChievoVerona,0,0
+Italy-Serie_A,Fiorentina,Lazio,3,4
+Italy-Serie_A,Torino,AC Milan,1,1
+Italy-Serie_A,Hellas Verona,Sassuolo,0,1
+Italy-Serie_A,Benevento,Atalanta,0,3
+Italy-Serie_A,Crotone,Juventus,1,1
+Netherlands-Eredivisie,AZ Alkmaar,Vitesse,4,3
+Netherlands-Eredivisie,Sparta Rotterdam,NAC Breda,2,1
+Netherlands-Eredivisie,Excelsior,Heracles,2,2
+Netherlands-Eredivisie,Willem II,Feyenoord,1,5
+Netherlands-Eredivisie,Roda JC Kerkrade,PSV Eindhoven,2,2
+Russia-Premier_League,CSKA Moscow,Amkar,3,0
+Russia-Premier_League,Zenit St. Petersburg,Dinamo Moscow,2,1
+Russia-Premier_League,Lokomotiv Moscow,FK Akhmat,0,0
+Spain-Primera_Division,Real Madrid,Athletic Bilbao,1,1
+Spain-Primera_Division,Valencia,Getafe,1,2
+Spain-Primera_Division,Espanyol,Eibar,0,1
+International-AFC_Champions_League_Grp__E,Jeonbuk FC,Kitchee,3,0
+International-AFC_Champions_League_Grp__E,Tianjin Quanjian,Kashiwa Reysol,3,2
+International-AFC_Champions_League_Grp__F,Kawasaki Frontale,Ulsan Hyundai,2,2
+International-AFC_Champions_League_Grp__F,Melbourne Victory,Shanghai SIPG FC,2,1
+Belgium-First_Division_A_Playoff_Championship_Group,Standard Liege,Anderlecht,2,1
+Belgium-First_Division_A_Playoff_EL_Grp__B,KFCO Beerschot-Wilrijk,St.Truiden,1,3
+Belgium-First_Division_A_Playoff_EL_Grp__B,Lokeren,Oostende,2,2
+Belgium-First_Division_A_Playoff_EL_Grp__B,Eupen,Royal Antwerp,0,1
+Bulgaria-First_Professional_League_Championship_Playoff,PFC CSKA-Sofia,Levski Sofia,2,2
+Bulgaria-First_Professional_League_Championship_Playoff,Ludogorets Razgrad,Beroe,7,0
+Bulgaria-First_Professional_League_Championship_Playoff,Vereya,Botev Plovdiv,2,2
+Croatia-1__Division,Hajduk Split,Cibalia,4,0
+Croatia-1__Division,Dinamo Zagreb,Osijek,0,1
+Croatia-1__Division,Rudes,NK Lokomotiva,1,2
+Denmark-Superligaen_Championship_Playoff,FC Koebenhavn,AaB,2,1
+Denmark-Superligaen_Championship_Playoff,AC Horsens,FC Nordsjaelland,2,2
+International-Copa_Libertadores_Grp__3,The Strongest,Atletico Tucuman,1,2
+International-Copa_Libertadores_Grp__3,Libertad,Club Atletico Penarol,2,1
+International-Copa_Libertadores_Grp__4,Flamengo,Santa Fe,1,1
+International-Copa_Libertadores_Grp__7,Independiente,Corinthians,0,1
+England-Premier_League,Leicester City,Southampton,0,0
+England-Premier_League,Burnley,Chelsea,1,2
+Netherlands-Eredivisie,Ajax,VVV-Venlo,4,1
+Netherlands-Eredivisie,FC Utrecht,FC Groningen,1,1
+Spain-Primera_Division,Real Betis,Las Palmas,1,0
+Spain-Primera_Division,Levante,Malaga,1,0
+Spain-Primera_Division,Alaves,Girona,1,2
+Spain-Primera_Division,Real Sociedad,Atletico Madrid,3,0
+Belgium-First_Division_A_Playoff_Championship_Group,Club Brugge,Sporting Charleroi,6,0
+Bulgaria-First_Professional_League_Relegation_Grp__2,Etar,Septemvri Sofia,4,2
+Bulgaria-First_Professional_League_Relegation_Grp__2,Dunav Ruse,Lokomotiv Plovdiv,1,0
+Croatia-1__Division,Slaven,Inter Zapresic,3,3
+Denmark-Superligaen_Championship_Playoff,FC Midtjylland,Broendby IF,2,3
+Denmark-Superligaen_Relegation_Grp__1,Silkeborg,Hobro,2,0
+Denmark-Superligaen_Relegation_Grp__2,Lyngby,SoenderjyskE,1,1
+Sweden-Allsvenskan,Brommapojkarna,Elfsborg,0,2
+Sweden-Allsvenskan,Hammarby,IFK Norrkoeping,2,1
+Sweden-Allsvenskan,IFK Gothenburg,Dalkurd FF,1,0
+Switzerland-Super_League,Lausanne,Luzern,0,1
+Turkey-Cup,Fenerbahce,Besiktas,
+USA-USL,Sacramento Republic FC,Colorado Springs Switchbacks FC,2,1
+USA-USL,Portland Timbers II,Rio Grande Valley FC,3,2
+USA-USL,Fresno FC,Tulsa Roughnecks FC,2,2
+USA-USL,Toronto FC II,North Carolina FC,0,0
+International-Copa_Sudamericana,Estudiantes Merida,Deportes Temuco,1,1
+England-League_1,Blackburn Rovers,Peterborough United,3,1
+Gibraltar-Premier_Division,Gibraltar Phoenix,Lincoln Red Imps FC,0,2
+Norway-Cup,Melbo,Bodoe/Glimt,1,4
+Norway-Cup,Lokomotiv Oslo FK,KFUM,0,3
+Norway-Cup,Trygg/Lade,Rosenborg,2,4
+Romania-Cup,CS Universitatea Craiova,Botosani,5,1
+Argentina-Primera_B_Metropolitana,Atlanta,Villa San Carlos,2,0
+Brazil-Cup,Goias,Avai FC,2,0
+Brazil-Cup,Nautico,Ponte Preta,1,0
+Brazil-Cup,Ferroviario,Atletico MG,2,2
+Brazil-Copa_do_Nordeste_Qualification,River AC,Sampaio Correa,2,2
+International-Copa_Libertadores_Grp__4,Emelec,River Plate,0,1
+International-Copa_Libertadores_Grp__5,Racing Club,Vasco da Gama,4,0
+International-Copa_Libertadores_Grp__5,Universidad de Chile,Cruzeiro,0,0
+International-Copa_Libertadores_Grp__8,Alianza Lima,Atletico Junior,0,2
+France-Ligue_1,Nantes,Rennes,1,1
+France-Ligue_1,Dijon,Lyon,2,5
+Germany-1__Bundesliga,Borussia Moenchengladbach,Wolfsburg,3,0
+Portugal-Primeira_Liga,Braga,Maritimo,2,0
+Spain-Primera_Division,Leganes,Deportivo La Coruna,0,0
+Australia-A_League_Playoff,Melbourne City FC,Brisbane Roar FC,2,0
+Belgium-First_Division_A_Playoff_EL_Grp__A,Zulte-Waregem,Kortrijk,3,0
+Bulgaria-First_Professional_League_Relegation_Grp__1,Cherno More Varna,Slavia Sofia,2,0
+Czech_Republic-1__Division,Sparta Prague,Jablonec,2,0
+England-Championship,Millwall,Fulham,0,3
+Germany-2__Bundesliga,Eintracht Braunschweig,Arminia Bielefeld,0,0
+Germany-2__Bundesliga,Greuther Fuerth,Bochum,1,1
+Ireland-Premier_Division,Shamrock Rovers,Limerick,1,1
+Ireland-Premier_Division,Dundalk,Derry City,2,2
+Ireland-Premier_Division,Waterford FC,Bray Wanderers,3,0
+Ireland-Premier_Division,Bohemian FC,Cork City,0,2
+Netherlands-Eerste_Divisie,NEC Nijmegen,Jong AZ Alkmaar,2,0
+Netherlands-Eerste_Divisie,Cambuur,Helmond Sport,4,1
+Netherlands-Eerste_Divisie,Jong PSV,FC Dordrecht,4,2
+Netherlands-Eerste_Divisie,De Graafschap,Telstar,1,0
+Netherlands-Eerste_Divisie,MVV Maastricht,FC Oss,1,1
+Netherlands-Eerste_Divisie,RKC Waalwijk,Go Ahead Eagles,2,1
+Netherlands-Eerste_Divisie,FC Eindhoven,Almere City FC,3,2
+Netherlands-Eerste_Divisie,FC Volendam,Jong Ajax,1,2
+Netherlands-Eerste_Divisie,Jong FC Utrecht,Fortuna Sittard,0,1
+Poland-Ekstraklasa_Championship_Group,Zaglebie Lubin,Lech Poznan,0,1
+Poland-Ekstraklasa_Relegation_Group,Termalica Nieciecza,Slask Wroclaw,1,2
+Romania-Liga_I_Relegation_Group,Dinamo Bucuresti,ACS Poli Timisoara,1,0
+Slovakia-Super_Liga,Tatran Presov,Nitra,1,1
+Spain-Segunda_Division,Cordoba,Sevilla Atletico,3,0
+Spain-Segunda_Division,Real Oviedo,Valladolid,1,2
+Turkey-Super_Lig,Istanbul Basaksehir,Kayserispor,3,1
+Belgium-First_Division_B_Relegation_Group,Union St.-Gilloise,Westerlo,0,2
+England-League_2,Coventry City,Stevenage,3,1
+Estonia-Meistriliiga,Tammeka,Parnu JK Vaprus,4,2`;

@@ -1,40 +1,40 @@
-var todaysMatches = `Argentina-Superliga,River Plate,Belgrano,X2
-Argentina-Superliga,Banfield,Union,X2
-Bulgaria-First_Professional_League,Slavia Sofia,Pirin Blagoevgrad,1X
-Germany-2__Bundesliga,Erzgebirge Aue,Greuther Fuerth,
-Greece-Super_League,Asteras Tripolis,Platanias,1
-Ireland-Premier_Division,Cork City,Bohemian FC,1
-Ireland-Premier_Division,St. Patrick's Athletic,Sligo Rovers,X2
-Ireland-Premier_Division,Limerick,Shamrock Rovers,X2
-Ireland-Premier_Division,Bray Wanderers,Waterford FC,2
-Italy-Serie_B,Carpi,Pro Vercelli,1X
-Mexico-Liga_MX_Clausura,Veracruz,Atlas,X
-Romania-Liga_I_Relegation_Group,Sepsi OSK,FC Voluntari,
-Spain-Segunda_Division,Huesca,Sporting Gijon,1X
-International-Club_Friendlies,Odds Ballklubb,Fram Larvik,
-International-Club_Friendlies,Stabaek,Skeid,
-Egypt-Premier_League,Al Nasr,Misr El-Maqasa,X2
-Egypt-Premier_League,Alassiouty,Smouha SC,X2
-Egypt-Premier_League,El Entag El Harby,ENPPI,1X
-Egypt-Premier_League,Al Mokawloon Al Arab,Wadi Degla FC,1X
-Egypt-Premier_League,El Raja Marsa Matruh,El Geish,X2
-Egypt-Premier_League,Al-Ittihad Al-Sakandary,Petrojet,X
-England-League_1,Doncaster Rovers,Bradford City,
-France-Ligue_2,Brest,Nimes,X2
-Italy-Serie_C_Grp__C,Cosenza,Lecce,2
-Italy-Serie_C_Grp__C,Casertana,Racing Fondi,1
-Albania-Kategoria_Superiore,Kukesi,Vllaznia,1
-Albania-Kategoria_Superiore,Partizani,Flamurtari,1X
-Argentina-Primera_B_Metropolitana,CD UAI Urquiza,Villa San Carlos,1X
-Argentina-Primera_B_Metropolitana,CA Talleres Remedios de Escalada,Deportivo Espanol,1
-Argentina-Primera_B_Metropolitana,Tristan Suarez,CA San Miguel,1
-Argentina-Primera_B_Metropolitana,Barracas Central,Almirante Brown,1
-Armenia-1__Division,Erebuni,Pyunik II,X2
-Armenia-1__Division,Ararat II,Gandzasar II,1X
-Armenia-1__Division,Shirak II,Artsakh,2
-Armenia-1__Division,Banants II,Avan Academy,X2
-Armenia-1__Division,Lori,Alashkert FC II,1
-Australia-Southern,Para Hills Knights,Campbelltown City,2
-Australia-Southern_State_League,Adelaide Blue Eagles,The Cove,1X
-Australia-NPL_Youth_Queensland,Brisbane Strikers U20,Brisbane Roar U20,2
-Australia-NPL_Youth_Queensland,Western Pride U20,Moreton Bay United U20,1`.split("\n");
+var todaysMatches = `Brazil-Serie_A,Parana Clube,Corinthians,
+Brazil-Serie_A,Atletico MG,Vitoria,
+Brazil-Serie_A,Ceara,Sao Paulo,
+Brazil-Serie_A,Chapecoense AF,Vasco da Gama,
+Brazil-Serie_A,Palmeiras,Internacional,
+Brazil-Serie_A,Fluminense,Cruzeiro,
+Brazil-Serie_A,Flamengo,America MG,
+England-Premier_League,Manchester City,Swansea City,1
+England-Premier_League,Arsenal,West Ham United,1
+England-Premier_League,Stoke City,Burnley,2
+England-FA_Cup,Chelsea,Southampton,
+France-Ligue_1,Saint-Etienne,Troyes,1
+France-Ligue_1,Nice,Montpellier,X
+France-Ligue_1,Bordeaux,Paris Saint Germain,2
+Germany-1__Bundesliga,Augsburg,Mainz 05,1X
+Germany-1__Bundesliga,FC Cologne,Schalke 04,2
+Italy-Serie_A,Lazio,Sampdoria,1
+Italy-Serie_A,Atalanta,Torino,1X
+Italy-Serie_A,Cagliari,Bologna,X2
+Italy-Serie_A,Udinese,Crotone,1X
+Italy-Serie_A,Juventus,SSC Napoli,1X
+Italy-Serie_A,ChievoVerona,Inter,2
+Portugal-Primeira_Liga,Sporting CP,Boavista,1
+Portugal-Primeira_Liga,Chaves,Portimonense,X2
+Portugal-Primeira_Liga,Tondela,Aves,1X
+Portugal-Primeira_Liga,Moreirense,Rio Ave,X2
+Russia-Premier_League,Lokomotiv Moscow,FC Ufa,1
+Russia-Premier_League,CSKA Moscow,FC Krasnodar,
+Russia-Premier_League,Tosno,Amkar,X2
+Russia-Premier_League,Arsenal Tula,Zenit St. Petersburg,X2
+Russia-Premier_League,SKA-Khabarovsk,Dinamo Moscow,2
+Spain-Primera_Division,Atletico Madrid,Real Betis,1X
+Spain-Primera_Division,Girona,Espanyol,1
+Spain-Primera_Division,Las Palmas,Alaves,2
+Spain-Primera_Division,Malaga,Real Sociedad,2
+Argentina-Superliga,San Lorenzo,Chacarita Juniors,1
+Argentina-Superliga,Tigre,Huracan,2
+Argentina-Superliga,Rosario Central,Racing Club,
+Argentina-Superliga,Atletico Tucuman,Union,
+Argentina-Superliga,Arsenal Sarandi,River Plate,2`.split("\n");
